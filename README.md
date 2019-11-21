@@ -12,9 +12,9 @@ Then, I added a simple script that picks a random part, and hook it up to the HT
 
 A good workaround was to listen to the completion of the script, and execute the rest of the script afterwards, which was simply rendering the quote, and suggesting *another quotes for the same author* -If exists- (since it's already loaded), or gives the option for a *new random quote*, which will require a refresh.
 
-This saves a lot of time since we only loads a tiny file (usually less than **1 KB**).
+This saves a lot of time since we only load a tiny file (usually less than **1 KB**).
 
-The down side to this is that git faces a hard time dealing with all of these files, I assume a continuous deployment for such a project will take a lot of time.
+The down side to this is that git faces a hard time dealing with all of these files, I assume a continuous deployment for such a project won't be a piece of cake.
 
 Here it is check it out! [https://ahmedhammad.me/daily-quote](https://ahmedhammad.me/daily-quote)
 
