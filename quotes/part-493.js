@@ -1,1 +1,1 @@
-var author493 = "Anthony Kiedis", quotes493 = ["Changing and inventing new things is great. Thats what we like to do. (Australia, 2002)."]
+var author493 = "Anthony Kiedis", quotes493 = ["Changing and inventing new things is great. That's what we like to do. (Australia, 2002)."]

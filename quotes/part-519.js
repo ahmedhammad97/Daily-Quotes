@@ -1,1 +1,1 @@
-var author519 = "Antonio Di Pietro", quotes519 = ["Berlusconis politics as [...] Fede is information."]
+var author519 = "Antonio Di Pietro", quotes519 = ["Berlusconi's politics as [...] Fede is information."]

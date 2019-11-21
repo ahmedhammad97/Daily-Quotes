@@ -1,1 +1,1 @@
-var author740 = "Beatrice Arthur", quotes740 = ["I cant imagine working without an audience."]
+var author740 = "Beatrice Arthur", quotes740 = ["I can't imagine working without an audience."]

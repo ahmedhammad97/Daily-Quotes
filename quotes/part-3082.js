@@ -1,1 +1,1 @@
-var author3082 = "Intuition", quotes3082 = ["Trust your hunches. Theyre usually based on facts filed away just below the conscious level.","Intuition is a spiritual faculty and does not explain, but simply points the way.","Trust yourself. You know more than you think you do."]
+var author3082 = "Intuition", quotes3082 = ["Trust your hunches. They're usually based on facts filed away just below the conscious level.","Intuition is a spiritual faculty and does not explain, but simply points the way.","Trust yourself. You know more than you think you do."]

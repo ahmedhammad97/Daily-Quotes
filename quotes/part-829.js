@@ -1,1 +1,1 @@
-var author829 = "Bill Monroe", quotes829 = ["That aint no part of nothin. ","It aint only the colored folks has the blues; theres many a white man thats had em.","The word hillbilly, Ive never liked that, and Ive never used that in my music."]
+var author829 = "Bill Monroe", quotes829 = ["That ain't no part of nothin'. ","It ain't only the colored folks has the blues; there's many a white man that's had 'em.","The word hillbilly, I've never liked that, and I've never used that in my music."]

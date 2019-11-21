@@ -1,1 +1,1 @@
-var author5918 = "Sadness", quotes5918 = ["Of all tales tis the saddest—and more sad,Because it makes us smile.","Tis impious in a good man to be sad."]
+var author5918 = "Sadness", quotes5918 = ["Of all tales 'tis the saddest—and more sad,Because it makes us smile.","'Tis impious in a good man to be sad."]

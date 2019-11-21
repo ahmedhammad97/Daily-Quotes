@@ -1,1 +1,1 @@
-var author1099 = "Cecil Taylor", quotes1099 = ["Sometimes when it goes really well, you wonder, whos that at the piano?"]
+var author1099 = "Cecil Taylor", quotes1099 = ["Sometimes when it goes really well, you wonder, who's that at the piano?"]

@@ -1,1 +1,1 @@
-var author3088 = "Ira Glass", quotes3088 = ["Progress constant companion is nostalgia for the way things used to be.","Not enough gets said about the importance of abandoning crap."]
+var author3088 = "Ira Glass", quotes3088 = ["Progress' constant companion is nostalgia for the way things used to be.","Not enough gets said about the importance of abandoning crap."]

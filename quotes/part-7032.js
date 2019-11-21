@@ -1,1 +1,1 @@
-var author7032 = "Wesley Clark", quotes7032 = ["Ive forgotten more about national security than George W. Bush will ever learn."]
+var author7032 = "Wesley Clark", quotes7032 = ["I've forgotten more about national security than George W. Bush will ever learn."]

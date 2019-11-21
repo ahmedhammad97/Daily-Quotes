@@ -1,1 +1,1 @@
-var author3247 = "James Howard Kunstler", quotes3247 = ["Motion is a great tranquilizer.","Jesus […] look how we live? Im practically a serf.","We all knew the apparatus of justice had dissolved.","The essence of politics was to not act on your impulses."]
+var author3247 = "James Howard Kunstler", quotes3247 = ["Motion is a great tranquilizer.","Jesus […] look how we live? I'm practically a serf.","We all knew the apparatus of justice had dissolved.","The essence of politics was to not act on your impulses."]

@@ -1,1 +1,1 @@
-var author3378 = "Jennifer Shahade", quotes3378 = ["Tournament chess is not relaxing. Its stressful, even if you win.","I love chess, but its the height of decadence."]
+var author3378 = "Jennifer Shahade", quotes3378 = ["Tournament chess is not relaxing. It's stressful, even if you win.","I love chess, but it's the height of decadence."]

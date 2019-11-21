@@ -1,1 +1,1 @@
-var author4175 = "Los Angeles", quotes4175 = ["[Los Angeles is] the worlds biggest third-class city.","Then, she take it all in. Best kush filling my joints. Say, I sound too L.A.? Thats the point!","The entrance to the Underworld is in Los Angeles."]
+var author4175 = "Los Angeles", quotes4175 = ["[Los Angeles is] the world's biggest third-class city.","Then, she take it all in. Best kush filling my joints. Say, I sound too L.A.? That's the point!","The entrance to the Underworld is in Los Angeles."]

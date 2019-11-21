@@ -1,1 +1,1 @@
-var author2399 = "Game", quotes2399 = ["If you are the dealer, Im out of the game","Games lubricate the body and the mind.","Talent wins games, but teamwork and intelligence wins championships."]
+var author2399 = "Game", quotes2399 = ["If you are the dealer, I'm out of the game","Games lubricate the body and the mind.","Talent wins games, but teamwork and intelligence wins championships."]

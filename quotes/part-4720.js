@@ -1,1 +1,1 @@
-var author4720 = "Mordecai Richler", quotes4720 = ["The chief rabbi of the underworld, thats me.","I was a voracious reader, but you would be mistaken if you took that as evidence of my quality."]
+var author4720 = "Mordecai Richler", quotes4720 = ["The chief rabbi of the underworld, that's me.","I was a voracious reader, but you would be mistaken if you took that as evidence of my quality."]

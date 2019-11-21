@@ -1,1 +1,1 @@
-var author4682 = "Misogyny", quotes4682 = ["Misogynist — A man who hates women as much as women hate one another.","Whores and sluts, this worlds gone straight to shit!"]
+var author4682 = "Misogyny", quotes4682 = ["Misogynist — A man who hates women as much as women hate one another.","Whores and sluts, this world's gone straight to shit!"]

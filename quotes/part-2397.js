@@ -1,1 +1,1 @@
-var author2397 = "Galen", quotes2397 = ["That which is, grows, while that which is not, becomes.","Much music marreth mens manners.","Employment is Natures physician, and is essential to human happiness."]
+var author2397 = "Galen", quotes2397 = ["That which is, grows, while that which is not, becomes.","Much music marreth men's manners.","Employment is Nature's physician, and is essential to human happiness."]

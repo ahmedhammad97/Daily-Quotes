@@ -1,1 +1,1 @@
-var author5177 = "Pauline Hanson", quotes5177 = ["A truly multicultural country can never be strong or united.","I do not believe that the colour of ones skin determines whether you are disadvantaged."]
+var author5177 = "Pauline Hanson", quotes5177 = ["A truly multicultural country can never be strong or united.","I do not believe that the colour of one's skin determines whether you are disadvantaged."]

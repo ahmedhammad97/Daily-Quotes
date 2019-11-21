@@ -1,1 +1,1 @@
-var author4400 = "Mark Williams (radio host)", quotes4400 = ["Hes a Ku Klux Klansman in blackface."]
+var author4400 = "Mark Williams (radio host)", quotes4400 = ["He's a Ku Klux Klansman in blackface."]

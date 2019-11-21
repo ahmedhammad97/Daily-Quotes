@@ -1,1 +1,1 @@
-var author7148 = "William M. Tweed", quotes7148 = ["I dont care who does the electing, so long as I get to do the nominating."]
+var author7148 = "William M. Tweed", quotes7148 = ["I don't care who does the electing, so long as I get to do the nominating."]

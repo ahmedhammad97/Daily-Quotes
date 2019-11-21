@@ -1,1 +1,1 @@
-var author1462 = "DJ", quotes1462 = ["Im getting a dj where dj is a broad service focused chotchkie or junket "]
+var author1462 = "DJ", quotes1462 = ["I'm getting a dj where dj is a broad service focused chotchkie or junket "]

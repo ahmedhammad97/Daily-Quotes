@@ -1,1 +1,1 @@
-var author3230 = "James D. Macdonald", quotes3230 = ["Rejection is natures way of telling you to write a better book."]
+var author3230 = "James D. Macdonald", quotes3230 = ["Rejection is nature's way of telling you to write a better book."]

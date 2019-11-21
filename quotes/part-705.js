@@ -1,1 +1,1 @@
-var author705 = "Ballet", quotes705 = ["Ballet is the fairies baseball."]
+var author705 = "Ballet", quotes705 = ["Ballet is the fairies' baseball."]

@@ -1,1 +1,1 @@
-var author394 = "Andrea Pirlo", quotes394 = ["I like to think of myself as a director, on the pitch and in life","I strike dead balls . Each shot bears my name and theyre all my children."]
+var author394 = "Andrea Pirlo", quotes394 = ["I like to think of myself as a director, on the pitch and in life","I strike dead balls . Each shot bears my name and they're all my children."]

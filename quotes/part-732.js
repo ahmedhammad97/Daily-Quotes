@@ -1,1 +1,1 @@
-var author732 = "Basil of Caesarea", quotes732 = ["Money is the devils dung.","... my dear friend Poverty, nurse of philosophy"]
+var author732 = "Basil of Caesarea", quotes732 = ["Money is the devil's dung.","... my dear friend Poverty, nurse of philosophy"]

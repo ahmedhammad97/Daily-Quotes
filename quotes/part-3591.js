@@ -1,1 +1,1 @@
-var author3591 = "John Leguizamo", quotes3591 = ["Latins for Republicans - its like roaches for Raid.","He thinks he can use the jail for networking to be somebody. In that way, hes always operating."]
+var author3591 = "John Leguizamo", quotes3591 = ["Latins for Republicans - it's like roaches for Raid.","He thinks he can use the jail for networking to be somebody. In that way, he's always operating."]

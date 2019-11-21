@@ -1,1 +1,1 @@
-var author5532 = "Rand Paul", quotes5532 = ["I would introduce and support legislation to send Roe v. Wade back to the states.","I think term limits are a good idea.","I wouldnt be doing this dumb ass live-stream if I wasnt, so get over it."]
+var author5532 = "Rand Paul", quotes5532 = ["I would introduce and support legislation to send Roe v. Wade back to the states.","I think term limits are a good idea.","I wouldn't be doing this dumb ass live-stream if I wasn't, so get over it."]

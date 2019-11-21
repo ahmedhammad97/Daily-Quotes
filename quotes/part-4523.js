@@ -1,1 +1,1 @@
-var author4523 = "Measurement", quotes4523 = ["You cant control what you cant measure","Observe due measure, for right timing is in all things the most important factor.","The ultimate measurement is effectiveness, not efficiency."]
+var author4523 = "Measurement", quotes4523 = ["You can't control what you can't measure","Observe due measure, for right timing is in all things the most important factor.","The ultimate measurement is effectiveness, not efficiency."]

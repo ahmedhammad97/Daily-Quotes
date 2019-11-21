@@ -1,1 +1,1 @@
-var author4819 = "Nathaniel Tarn", quotes4819 = ["I speak from ignorance.Who once learned much, but speaks from ignorance now.","Where theres no stop and goa breath arrest your stare."]
+var author4819 = "Nathaniel Tarn", quotes4819 = ["I speak from ignorance.Who once learned much, but speaks from ignorance now.","Where there's no stop and goa breath arrest your stare."]

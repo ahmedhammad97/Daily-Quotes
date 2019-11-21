@@ -1,1 +1,1 @@
-var author2377 = "Fumio Kyūma", quotes2377 = ["I understand that the bombing ended the war, and I think that it couldnt be helped."]
+var author2377 = "Fumio Kyūma", quotes2377 = ["I understand that the bombing ended the war, and I think that it couldn't be helped."]

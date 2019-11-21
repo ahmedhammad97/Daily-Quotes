@@ -1,1 +1,1 @@
-var author1045 = "Carl Bernstein", quotes1045 = ["You cant serve the public good without the truth as a bottom line."]
+var author1045 = "Carl Bernstein", quotes1045 = ["You can't serve the public good without the truth as a bottom line."]

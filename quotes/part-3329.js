@@ -1,1 +1,1 @@
-var author3329 = "Jean Chrétien", quotes3329 = ["Politics is a game of friends.","Ive never believed in seeking perfection at the risk of losing everything.","Vision is not political rhetoric."]
+var author3329 = "Jean Chrétien", quotes3329 = ["Politics is a game of friends.","I've never believed in seeking perfection at the risk of losing everything.","Vision is not political rhetoric."]

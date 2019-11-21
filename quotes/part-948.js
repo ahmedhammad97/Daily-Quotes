@@ -1,1 +1,1 @@
-var author948 = "Brian Keith", quotes948 = ["In other words...you cant be a misogynist and expect women to appreciate you."]
+var author948 = "Brian Keith", quotes948 = ["In other words...you can't be a misogynist and expect women to appreciate you."]

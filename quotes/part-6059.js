@@ -1,1 +1,1 @@
-var author6059 = "Serendipity", quotes6059 = ["Synergy and serendipity often play a big part in medical and scientific advances.","Serendipity is looking in a haystack for a needle and discovering a farmers daughter.","In the field of observation, chance favours only the prepared mind."]
+var author6059 = "Serendipity", quotes6059 = ["Synergy and serendipity often play a big part in medical and scientific advances.","Serendipity is looking in a haystack for a needle and discovering a farmer's daughter.","In the field of observation, chance favours only the prepared mind."]

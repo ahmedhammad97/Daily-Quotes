@@ -1,1 +1,1 @@
-var author1076 = "Carver Mead", quotes1076 = ["Listen to the technology; find out what its telling you."]
+var author1076 = "Carver Mead", quotes1076 = ["Listen to the technology; find out what it's telling you."]

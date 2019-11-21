@@ -1,1 +1,1 @@
-var author6088 = "She & Him", quotes6088 = ["Whats in my pocket? So well, as I knew you","Well Im back in your good graces again Remember when you told me that I was your only friend?","Shut your eyes, there are bluer skies For youre embraced in my heart "]
+var author6088 = "She & Him", quotes6088 = ["What's in my pocket? So well, as I knew you","Well I'm back in your good graces again Remember when you told me that I was your only friend?","Shut your eyes, there are bluer skies For you're embraced in my heart "]

@@ -1,1 +1,1 @@
-var author2710 = "Haiti", quotes2710 = ["Haitians werent screwed-up, but everything political, intellectual, and material around them is.","Of course, the humans in Haiti have hope. They hope to leave."]
+var author2710 = "Haiti", quotes2710 = ["Haitians weren't screwed-up, but everything political, intellectual, and material around them is.","Of course, the humans in Haiti have hope. They hope to leave."]

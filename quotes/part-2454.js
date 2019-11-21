@@ -1,1 +1,1 @@
-var author2454 = "George Boardman the Younger", quotes2454 = ["Work is Gods ordinance as truly as prayer."]
+var author2454 = "George Boardman the Younger", quotes2454 = ["Work is God's ordinance as truly as prayer."]

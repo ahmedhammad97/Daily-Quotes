@@ -1,1 +1,1 @@
-var author149 = "Agnetha Fältskog", quotes149 = ["Im not the person who looks back or looks forward. I try to live in what is now."]
+var author149 = "Agnetha Fältskog", quotes149 = ["I'm not the person who looks back or looks forward. I try to live in what is now."]

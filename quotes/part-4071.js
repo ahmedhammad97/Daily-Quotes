@@ -1,1 +1,1 @@
-var author4071 = "Leo Laporte", quotes4071 = ["Mike, you are such a troll — screw you! Im not kidding, screw you, you asshole. Screw you."]
+var author4071 = "Leo Laporte", quotes4071 = ["Mike, you are such a troll — screw you! I'm not kidding, screw you, you asshole. Screw you."]

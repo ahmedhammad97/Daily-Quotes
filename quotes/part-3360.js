@@ -1,1 +1,1 @@
-var author3360 = "Jeev Milkha Singh", quotes3360 = ["Winning doesnt come cheaply … you have to pay a big price."]
+var author3360 = "Jeev Milkha Singh", quotes3360 = ["Winning doesn't come cheaply … you have to pay a big price."]

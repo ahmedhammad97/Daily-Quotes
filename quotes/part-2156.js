@@ -1,1 +1,1 @@
-var author2156 = "Fairness", quotes2156 = ["Alls fair in love and war."]
+var author2156 = "Fairness", quotes2156 = ["All's fair in love and war."]

@@ -1,1 +1,1 @@
-var author1564 = "David Horowitz", quotes1564 = ["If blacks are oppressed in America, why isnt there a black exodus?"]
+var author1564 = "David Horowitz", quotes1564 = ["If blacks are oppressed in America, why isn't there a black exodus?"]

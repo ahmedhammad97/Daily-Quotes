@@ -1,1 +1,1 @@
-var author5939 = "Sam Walter Foss", quotes5939 = ["We felt the universe wuz safe, an God wuz on his throne.","The sweet mellifluous milking of the cow.","There are purple grapes in the Land of Git-Thare.","Strew gladness on the paths of men—You will not pass this way again."]
+var author5939 = "Sam Walter Foss", quotes5939 = ["We felt the universe wuz safe, an' God wuz on his throne.","The sweet mellifluous milking of the cow.","There are purple grapes in the Land of Git-Thare.","Strew gladness on the paths of men—You will not pass this way again."]

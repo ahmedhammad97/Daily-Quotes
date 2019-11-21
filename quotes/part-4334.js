@@ -1,1 +1,1 @@
-var author4334 = "Marcus Brigstocke", quotes4334 = ["I dont like David Blaine, he is the ultimate git wizard."]
+var author4334 = "Marcus Brigstocke", quotes4334 = ["I don't like David Blaine, he is the ultimate git wizard."]

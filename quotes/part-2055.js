@@ -1,1 +1,1 @@
-var author2055 = "Erich Segal", quotes2055 = ["Love means never having to say youre sorry.","It takes someone very special to help you forget someone very special."]
+var author2055 = "Erich Segal", quotes2055 = ["Love means never having to say you're sorry.","It takes someone very special to help you forget someone very special."]

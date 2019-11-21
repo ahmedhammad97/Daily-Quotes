@@ -1,1 +1,1 @@
-var author432 = "Aneurin Bevan", quotes432 = ["Damn it all, you cant have the crown of thorns and the thirty pieces of silver."]
+var author432 = "Aneurin Bevan", quotes432 = ["Damn it all, you can't have the crown of thorns and the thirty pieces of silver."]

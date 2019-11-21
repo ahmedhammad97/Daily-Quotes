@@ -1,1 +1,1 @@
-var author4019 = "Laura Antoniou", quotes4019 = ["My fantasies have never been safe ones.","Safe, sane and consensual — what do those words really mean?Assimilation, thats what.","My fantasies have never been safe ones. Dont fuck with me, unless you understand that."]
+var author4019 = "Laura Antoniou", quotes4019 = ["My fantasies have never been safe ones.","Safe, sane and consensual — what do those words really mean?Assimilation, that's what.","My fantasies have never been safe ones. Don't fuck with me, unless you understand that."]

@@ -1,1 +1,1 @@
-var author977 = "Buddhaghoṣa", quotes977 = ["Only virtues water canwash out the stain in living things."]
+var author977 = "Buddhaghoṣa", quotes977 = ["Only virtue's water canwash out the stain in living things."]

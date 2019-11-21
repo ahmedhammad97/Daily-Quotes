@@ -1,1 +1,1 @@
-var author2995 = "Ian Darke", quotes2995 = ["Oh, talk about lightning striking twice. Another goal scrubbed out for the United States.","Will the goal never come?","Payback, for the USA!","I think hes saying there should be more than a minute."]
+var author2995 = "Ian Darke", quotes2995 = ["Oh, talk about lightning striking twice. Another goal scrubbed out for the United States.","Will the goal never come?","Payback, for the USA!","I think he's saying there should be more than a minute."]

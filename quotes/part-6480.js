@@ -1,1 +1,1 @@
-var author6480 = "Thabo Mbeki", quotes6480 = ["By all means, lets work together."]
+var author6480 = "Thabo Mbeki", quotes6480 = ["By all means, let's work together."]

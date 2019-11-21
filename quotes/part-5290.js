@@ -1,1 +1,1 @@
-var author5290 = "Philip Ó Ceallaigh", quotes5290 = ["I think if youve got something to say and you can say it with less, thats the way to go."]
+var author5290 = "Philip Ó Ceallaigh", quotes5290 = ["I think if you've got something to say and you can say it with less, that's the way to go."]

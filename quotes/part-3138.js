@@ -1,1 +1,1 @@
-var author3138 = "Ivan Turgenev", quotes3138 = ["Bazarov drew himself up haughtily. I dont adopt any ones ideas; I have my own.","Death is an old joke, but it comes like new to everyone."]
+var author3138 = "Ivan Turgenev", quotes3138 = ["Bazarov drew himself up haughtily. I don't adopt any one's ideas; I have my own.","Death is an old joke, but it comes like new to everyone."]

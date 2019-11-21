@@ -1,1 +1,1 @@
-var author3422 = "Jimmy Stewart", quotes3422 = ["If you can do a part and not have the acting show.","Im going to be with Gloria now.","Never treat your audience as customers, always as partners."]
+var author3422 = "Jimmy Stewart", quotes3422 = ["If you can do a part and not have the acting show.","I'm going to be with Gloria now.","Never treat your audience as customers, always as partners."]

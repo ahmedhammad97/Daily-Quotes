@@ -1,1 +1,1 @@
-var author3441 = "Jodi Picoult", quotes3441 = ["You dont love someone because theyre perfect. You love them in spite of the fact that theyre not."]
+var author3441 = "Jodi Picoult", quotes3441 = ["You don't love someone because they're perfect. You love them in spite of the fact that they're not."]

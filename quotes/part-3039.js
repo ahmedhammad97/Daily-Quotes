@@ -1,1 +1,1 @@
-var author3039 = "Indira Gandhi", quotes3039 = ["Dacca is now the free capital of a free country.","You must learn to be still in the midst of activity and to be vibrantly alive in repose.","My father was a statesman, Im a political woman. My father was a saint. Im not."]
+var author3039 = "Indira Gandhi", quotes3039 = ["Dacca is now the free capital of a free country.","You must learn to be still in the midst of activity and to be vibrantly alive in repose.","My father was a statesman, I'm a political woman. My father was a saint. I'm not."]

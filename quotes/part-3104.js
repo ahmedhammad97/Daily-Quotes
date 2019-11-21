@@ -1,1 +1,1 @@
-var author3104 = "Irving Chernev", quotes3104 = ["Dont fiddle while Byrne roams!"]
+var author3104 = "Irving Chernev", quotes3104 = ["Don't fiddle while Byrne roams!"]

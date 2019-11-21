@@ -1,1 +1,1 @@
-var author5966 = "Sandra Bernhard", quotes5966 = ["My father was a proctologist; my mother was an abstract artist. Thats how I view the world."]
+var author5966 = "Sandra Bernhard", quotes5966 = ["My father was a proctologist; my mother was an abstract artist. That's how I view the world."]

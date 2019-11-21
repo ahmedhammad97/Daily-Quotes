@@ -1,1 +1,1 @@
-var author5088 = "Papa Roach", quotes5088 = ["Youre a slave to the systemFor that shit you dont need."]
+var author5088 = "Papa Roach", quotes5088 = ["You're a slave to the systemFor that shit you don't need."]

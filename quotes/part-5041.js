@@ -1,1 +1,1 @@
-var author5041 = "Oscar Hammerstein II", quotes5041 = ["If you become a teacher, by your pupils youll be taught.","I hand him a lyric and get out of his way."]
+var author5041 = "Oscar Hammerstein II", quotes5041 = ["If you become a teacher, by your pupils you'll be taught.","I hand him a lyric and get out of his way."]

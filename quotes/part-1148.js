@@ -1,1 +1,1 @@
-var author1148 = "Charles Kingsley", quotes1148 = ["And the sooner its over, the sooner to sleep—And good-by to the bar and its moaning.","Clear and cool, clear and cool,By laughing shallow, and dreaming pool."]
+var author1148 = "Charles Kingsley", quotes1148 = ["And the sooner it's over, the sooner to sleep—And good-by to the bar and its moaning.","Clear and cool, clear and cool,By laughing shallow, and dreaming pool."]

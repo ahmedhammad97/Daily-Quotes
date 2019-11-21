@@ -1,1 +1,1 @@
-var author4613 = "Michael Scheuer", quotes4613 = ["Right now, the choice isnt between war and peace. It is between war and endless war.","I dont consider Osama Bin Laden to be a terrorist. I consider him to be a resistance fighter. "]
+var author4613 = "Michael Scheuer", quotes4613 = ["Right now, the choice isn't between war and peace. It is between war and endless war.","I don't consider Osama Bin Laden to be a terrorist. I consider him to be a resistance fighter. "]

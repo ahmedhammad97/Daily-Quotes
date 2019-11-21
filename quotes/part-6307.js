@@ -1,1 +1,1 @@
-var author6307 = "Stig Dagerman", quotes6307 = ["When youre called up you dont need many personal belongings — not when you love either. (p. 203)"]
+var author6307 = "Stig Dagerman", quotes6307 = ["When you're called up you don't need many personal belongings — not when you love either. (p. 203)"]

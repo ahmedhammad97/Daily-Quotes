@@ -1,1 +1,1 @@
-var author2537 = "Georges Seurat", quotes2537 = ["On Pissarros advice Im abandoning the emerald green... "]
+var author2537 = "Georges Seurat", quotes2537 = ["On Pissarro's advice I'm abandoning the emerald green... "]

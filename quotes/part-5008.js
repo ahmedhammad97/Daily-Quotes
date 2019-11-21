@@ -1,1 +1,1 @@
-var author5008 = "Open-mindedness", quotes5008 = ["People are very open-minded about new things - as long as theyre exactly like the old ones."]
+var author5008 = "Open-mindedness", quotes5008 = ["People are very open-minded about new things - as long as they're exactly like the old ones."]

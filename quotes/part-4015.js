@@ -1,1 +1,1 @@
-var author4015 = "Last words in Disney animated films", quotes4015 = ["IVE WON! AH HA HA HA!"]
+var author4015 = "Last words in Disney animated films", quotes4015 = ["I'VE WON! AH HA HA HA!"]

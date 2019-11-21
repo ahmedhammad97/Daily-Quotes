@@ -1,1 +1,1 @@
-var author57 = "Abel Stevens", quotes57 = ["Politeness is the art of choosing among ones real thoughts."]
+var author57 = "Abel Stevens", quotes57 = ["Politeness is the art of choosing among one's real thoughts."]

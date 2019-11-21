@@ -1,1 +1,1 @@
-var author725 = "Barry Michaels", quotes725 = ["Im gonna say that Ive had some incredibly unholy thoughts about you."]
+var author725 = "Barry Michaels", quotes725 = ["I'm gonna say that I've had some incredibly unholy thoughts about you."]

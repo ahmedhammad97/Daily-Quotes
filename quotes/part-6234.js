@@ -1,1 +1,1 @@
-var author6234 = "Stages on Lifes Way", quotes6234 = ["My father was married, and he was the most depressed person I’ve known.","January 9 Morning: Why do I feel happier in the distance of possibility?","Does it help one to believe in what is great by knowing it is historical?"]
+var author6234 = "Stages on Life's Way", quotes6234 = ["My father was married, and he was the most depressed person I’ve known.","January 9 Morning: Why do I feel happier in the distance of possibility?","Does it help one to believe in what is great by knowing it is historical?"]

@@ -1,1 +1,1 @@
-var author6902 = "Vietnam", quotes6902 = ["They have back-stabbed us.","I used to see Vietnam as a war rather than a country.","Whatever you think... America wasnt stealing from the Vietnamese. "]
+var author6902 = "Vietnam", quotes6902 = ["They have back-stabbed us.","I used to see Vietnam as a war rather than a country.","Whatever you think... America wasn't stealing from the Vietnamese. "]

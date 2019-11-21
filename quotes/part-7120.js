@@ -1,1 +1,1 @@
-var author7120 = "William Greenough Thayer Shedd", quotes7120 = ["A ship is safe in harbor, but thats not what ships are for."]
+var author7120 = "William Greenough Thayer Shedd", quotes7120 = ["A ship is safe in harbor, but that's not what ships are for."]

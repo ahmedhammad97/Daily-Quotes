@@ -1,1 +1,1 @@
-var author3843 = "Kano Sisters", quotes3843 = ["Its difficult to explain. Were still very confused."]
+var author3843 = "Kano Sisters", quotes3843 = ["It's difficult to explain. We're still very confused."]

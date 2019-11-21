@@ -1,1 +1,1 @@
-var author2765 = "Harry Reid", quotes2765 = ["The mans father is a wonderful human being. I think this guy is a loser.","Anarchists have taken over (the GOP). - Sept. 12, 2013, on the Senate floor."]
+var author2765 = "Harry Reid", quotes2765 = ["The man's father is a wonderful human being. I think this guy is a loser.","Anarchists have taken over (the GOP). - Sept. 12, 2013, on the Senate floor."]

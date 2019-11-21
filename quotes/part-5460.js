@@ -1,1 +1,1 @@
-var author5460 = "Puppetry", quotes5460 = ["And although Im not exactly sure what [Jim Henson] did, whatever it was really moved me.","A good character is almost always derived from an aspect of the performers personality."]
+var author5460 = "Puppetry", quotes5460 = ["And although I'm not exactly sure what [Jim Henson] did, whatever it was really moved me.","A good character is almost always derived from an aspect of the performer's personality."]

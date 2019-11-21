@@ -1,1 +1,1 @@
-var author4534 = "Mehdi Akhavan-Sales", quotes4534 = ["Your greetings theyll ignore. ","The leafless orchardWith his pure and sad silence.","The breath coming out of your chest"]
+var author4534 = "Mehdi Akhavan-Sales", quotes4534 = ["Your greetings they'll ignore. ","The leafless orchardWith his pure and sad silence.","The breath coming out of your chest"]

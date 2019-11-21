@@ -1,1 +1,1 @@
-var author29 = "A. James Gregor", quotes29 = ["Mussolini was a Marxist ‘heretic.","Fascism . . . was the socialism of ‘proletarian nations.’"]
+var author29 = "A. James Gregor", quotes29 = ["Mussolini was a Marxist ‘heretic'.","Fascism . . . was the socialism of ‘proletarian nations.’"]

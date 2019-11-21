@@ -1,1 +1,1 @@
-var author2093 = "Ethel Merman", quotes2093 = ["Broadway has been very good to me. But Ive been very good to Broadway, too."]
+var author2093 = "Ethel Merman", quotes2093 = ["Broadway has been very good to me. But I've been very good to Broadway, too."]

@@ -1,1 +1,1 @@
-var author5884 = "Running", quotes5884 = ["He can run. But he cant hide.","Scare myself to deathThats why I keep on running"]
+var author5884 = "Running", quotes5884 = ["He can run. But he can't hide.","Scare myself to deathThat's why I keep on running"]

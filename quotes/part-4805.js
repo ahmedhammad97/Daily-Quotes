@@ -1,1 +1,1 @@
-var author4805 = "Natasha Bedingfield", quotes4805 = ["Just like the moon, Ill step aside, and let your sun shine while I follow behind..."]
+var author4805 = "Natasha Bedingfield", quotes4805 = ["Just like the moon, I'll step aside, and let your sun shine while I follow behind..."]

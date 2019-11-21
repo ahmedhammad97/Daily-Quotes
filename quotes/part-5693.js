@@ -1,1 +1,1 @@
-var author5693 = "Risk", quotes5693 = ["Skiers are in love with a risk sport and theyre uninhibited - even in converstaion."]
+var author5693 = "Risk", quotes5693 = ["Skiers are in love with a risk sport and they're uninhibited - even in converstaion."]

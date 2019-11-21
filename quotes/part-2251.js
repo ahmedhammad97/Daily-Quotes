@@ -1,1 +1,1 @@
-var author2251 = "Foucaults Pendulum", quotes2251 = ["They remind me of Tom and Jerry. ","There are no bigger secrets, because the moment a secret is revealed, it seems little.","The universe is peeled like an onion, and an onion is all peel."]
+var author2251 = "Foucault's Pendulum", quotes2251 = ["They remind me of Tom and Jerry. ","There are no bigger secrets, because the moment a secret is revealed, it seems little.","The universe is peeled like an onion, and an onion is all peel."]

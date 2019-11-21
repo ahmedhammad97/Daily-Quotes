@@ -1,1 +1,1 @@
-var author3000 = "Ian McBryde", quotes3000 = ["Ive always been intriqued by form.","I love the notion of brevity."]
+var author3000 = "Ian McBryde", quotes3000 = ["I've always been intriqued by form.","I love the notion of brevity."]

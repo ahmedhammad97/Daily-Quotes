@@ -1,1 +1,1 @@
-var author2974 = "Human behavior", quotes2974 = ["Copyright law as it is, its just completely out of touch with human behaviour."]
+var author2974 = "Human behavior", quotes2974 = ["Copyright law as it is, it's just completely out of touch with human behaviour."]

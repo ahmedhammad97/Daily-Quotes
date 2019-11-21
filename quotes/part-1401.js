@@ -1,1 +1,1 @@
-var author1401 = "Coretta Scott King", quotes1401 = ["Im more determined than ever that my husbands dream will become a reality.","We have to launch a national campaign against homophobia in the black community"]
+var author1401 = "Coretta Scott King", quotes1401 = ["I'm more determined than ever that my husband's dream will become a reality.","We have to launch a national campaign against homophobia in the black community"]

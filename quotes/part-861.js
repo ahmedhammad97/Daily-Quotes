@@ -1,1 +1,1 @@
-var author861 = "Blame", quotes861 = ["Now theres no point in placing the blame And you should know Id suffer the same"]
+var author861 = "Blame", quotes861 = ["Now there's no point in placing the blame And you should know I'd suffer the same"]

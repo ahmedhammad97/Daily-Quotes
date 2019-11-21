@@ -1,1 +1,1 @@
-var author2087 = "Estelle Getty", quotes2087 = ["I think they look upon me as an old child, because Im so little.","Too many of you, my friends, are dying. Now its time for me to do my part and help you."]
+var author2087 = "Estelle Getty", quotes2087 = ["I think they look upon me as an old child, because I'm so little.","Too many of you, my friends, are dying. Now it's time for me to do my part and help you."]

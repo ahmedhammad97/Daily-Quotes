@@ -1,1 +1,1 @@
-var author4740 = "Moshe Safdie", quotes4740 = ["When I got my first commission after Habitat, for a few weeks I couldnt draw."]
+var author4740 = "Moshe Safdie", quotes4740 = ["When I got my first commission after Habitat, for a few weeks I couldn't draw."]

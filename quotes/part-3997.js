@@ -1,1 +1,1 @@
-var author3997 = "Lang Lang", quotes3997 = ["Id play the piano at 5am."]
+var author3997 = "Lang Lang", quotes3997 = ["I'd play the piano at 5am."]

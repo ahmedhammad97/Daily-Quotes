@@ -1,1 +1,1 @@
-var author2181 = "Fay Weldon", quotes2181 = ["Go to work on an egg.","I like sex. Ive had feedback but men will feed you back anything, wont they?","One sort of believes in recycling. But one believes in it as a kind of palliative to the gods. "]
+var author2181 = "Fay Weldon", quotes2181 = ["Go to work on an egg.","I like sex. I've had feedback but men will feed you back anything, won't they?","One sort of believes in recycling. But one believes in it as a kind of palliative to the gods. "]

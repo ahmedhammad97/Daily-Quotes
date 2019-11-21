@@ -1,1 +1,1 @@
-var author3800 = "Julia Gillard", quotes3800 = ["Its a cute project to work on."]
+var author3800 = "Julia Gillard", quotes3800 = ["It's a cute project to work on."]

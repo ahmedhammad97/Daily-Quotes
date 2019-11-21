@@ -1,1 +1,1 @@
-var author3275 = "James P. Hogan", quotes3275 = ["Confidence is a feeling you get when you dont REALLY understand the situation."]
+var author3275 = "James P. Hogan", quotes3275 = ["Confidence is a feeling you get when you don't REALLY understand the situation."]

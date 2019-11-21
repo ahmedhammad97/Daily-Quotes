@@ -1,1 +1,1 @@
-var author2722 = "Hank Aaron", quotes2722 = ["Didnt come up here to read. Came up here to hit.","Im not trying to make anyone forget the Babe; but only to remember Hank Aaron.","There wasnt any pitcher I felt I couldnt get a hit off."]
+var author2722 = "Hank Aaron", quotes2722 = ["Didn't come up here to read. Came up here to hit.","I'm not trying to make anyone forget the Babe; but only to remember Hank Aaron.","There wasn't any pitcher I felt I couldn't get a hit off."]

@@ -1,1 +1,1 @@
-var author3919 = "Kevin Warwick", quotes3919 = ["There can be no absolute reality, there can be no absolute truth.","A persons brain and body do not have to be in the same place."]
+var author3919 = "Kevin Warwick", quotes3919 = ["There can be no absolute reality, there can be no absolute truth.","A person's brain and body do not have to be in the same place."]

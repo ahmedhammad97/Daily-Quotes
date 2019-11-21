@@ -1,1 +1,1 @@
-var author251 = "Alex Ferguson", quotes251 = ["Football, bloody hell!","Thats one of the most stupid questions Ive heard. Ill go with Mascherano."]
+var author251 = "Alex Ferguson", quotes251 = ["Football, bloody hell!","That's one of the most stupid questions I've heard. I'll go with Mascherano."]

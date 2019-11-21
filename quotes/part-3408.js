@@ -1,1 +1,1 @@
-var author3408 = "Jill Stein", quotes3408 = ["We dont support bombing other peoples kids, unlike the other woman in the race."]
+var author3408 = "Jill Stein", quotes3408 = ["We don't support bombing other people's kids, unlike the other woman in the race."]

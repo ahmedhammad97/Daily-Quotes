@@ -1,1 +1,1 @@
-var author4037 = "Lawrence Lessig", quotes4037 = ["Law and technology produce, together, a kind of regulation of creativity weve not seen before.","Writing is the Latin of our times. The modern language of the people is video and sound."]
+var author4037 = "Lawrence Lessig", quotes4037 = ["Law and technology produce, together, a kind of regulation of creativity we've not seen before.","Writing is the Latin of our times. The modern language of the people is video and sound."]

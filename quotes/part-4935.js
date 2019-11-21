@@ -1,1 +1,1 @@
-var author4935 = "Norman Rockwell", quotes4935 = ["Ill never have enough time to paint all the pictures Id like to."]
+var author4935 = "Norman Rockwell", quotes4935 = ["I'll never have enough time to paint all the pictures I'd like to."]

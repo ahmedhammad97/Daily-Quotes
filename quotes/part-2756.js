@@ -1,1 +1,1 @@
-var author2756 = "Harriet Tubman", quotes2756 = ["I cant die but once.","Oh, Lord! Youve been wid me in six troubles, dont desert me in the seventh!"]
+var author2756 = "Harriet Tubman", quotes2756 = ["I can't die but once.","Oh, Lord! You've been wid me in six troubles, don't desert me in the seventh!"]

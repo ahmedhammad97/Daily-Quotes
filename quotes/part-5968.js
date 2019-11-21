@@ -1,1 +1,1 @@
-var author5968 = "Sandra Day OConnor", quotes5968 = ["The proper role of the judiciary is one of interpreting and applying the law, not making it."]
+var author5968 = "Sandra Day O'Connor", quotes5968 = ["The proper role of the judiciary is one of interpreting and applying the law, not making it."]

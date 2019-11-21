@@ -1,1 +1,1 @@
-var author5661 = "Richard Owen Cambridge", quotes5661 = ["What is the worth of any thing,But for the happiness twill bring?"]
+var author5661 = "Richard Owen Cambridge", quotes5661 = ["What is the worth of any thing,But for the happiness 'twill bring?"]

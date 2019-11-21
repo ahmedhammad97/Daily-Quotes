@@ -1,1 +1,1 @@
-var author4252 = "MS Dhoni", quotes4252 = ["Till full stop doesnt come,the sentence is not complete."]
+var author4252 = "MS Dhoni", quotes4252 = ["Till full stop doesn't come,the sentence is not complete."]

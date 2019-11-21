@@ -1,1 +1,1 @@
-var author7043 = "Whoopi Goldberg", quotes7043 = ["I know it wasnt rape-rape. I think it was something else, but I dont believe it was rape-rape. "]
+var author7043 = "Whoopi Goldberg", quotes7043 = ["I know it wasn't rape-rape. I think it was something else, but I don't believe it was rape-rape. "]

@@ -1,1 +1,1 @@
-var author1182 = "Charlottes Web (book)", quotes1182 = ["Never hurry and never worry!","People believe almost anything they see in print.","After all, whats a life, anyway? Were born, we live a little while, we die."]
+var author1182 = "Charlotte's Web (book)", quotes1182 = ["Never hurry and never worry!","People believe almost anything they see in print.","After all, what's a life, anyway? We're born, we live a little while, we die."]

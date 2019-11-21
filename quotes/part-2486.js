@@ -1,1 +1,1 @@
-var author2486 = "George Jackson (activist)", quotes2486 = ["Patience has its limits. Take it too far and its cowardice.","Prestige bars any serious attack on power. Do people attack a thing they consider with awe?"]
+var author2486 = "George Jackson (activist)", quotes2486 = ["Patience has its limits. Take it too far and it's cowardice.","Prestige bars any serious attack on power. Do people attack a thing they consider with awe?"]

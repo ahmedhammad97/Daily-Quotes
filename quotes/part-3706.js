@@ -1,1 +1,1 @@
-var author3706 = "Jon Stewart", quotes3706 = ["This show is our own personal beliefs.","Do you guys have to sell everything? Id like to buy the Earths core.","The American people. For their just utter patience.","Good evening everybody, ladies, gentlemen... Felicity."]
+var author3706 = "Jon Stewart", quotes3706 = ["This show is our own personal beliefs.","Do you guys have to sell everything? I'd like to buy the Earth's core.","The American people. For their just utter patience.","Good evening everybody, ladies, gentlemen... Felicity."]

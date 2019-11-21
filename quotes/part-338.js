@@ -1,1 +1,1 @@
-var author338 = "Allen Iverson", quotes338 = ["Reporter: Could you be clear about your practicing habits since we cant see you practice?"]
+var author338 = "Allen Iverson", quotes338 = ["Reporter: Could you be clear about your practicing habits since we can't see you practice?"]

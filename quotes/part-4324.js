@@ -1,1 +1,1 @@
-var author4324 = "Map", quotes4324 = ["The map is not the territory, and the name is not the thing named.","Lets not pretend that mental phenomena can be mapped on to the characteristics of billiard balls."]
+var author4324 = "Map", quotes4324 = ["The map is not the territory, and the name is not the thing named.","Let's not pretend that mental phenomena can be mapped on to the characteristics of billiard balls."]

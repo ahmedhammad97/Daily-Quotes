@@ -1,1 +1,1 @@
-var author5952 = "Samuel Lover", quotes5952 = ["For a ballads a thing you expect to find lies in."]
+var author5952 = "Samuel Lover", quotes5952 = ["For a ballad's a thing you expect to find lies in."]

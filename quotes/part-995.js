@@ -1,1 +1,1 @@
-var author995 = "Butchers", quotes995 = ["Why, thats spoken like an honest drovier; so they sell bullocks.","The butcher in his killing clothes."]
+var author995 = "Butchers", quotes995 = ["Why, that's spoken like an honest drovier; so they sell bullocks.","The butcher in his killing clothes."]

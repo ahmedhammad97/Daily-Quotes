@@ -1,1 +1,1 @@
-var author5540 = "Ravens Gate", quotes5540 = ["Well if you havent heard of it, then it obviously doesnt exist!","Theres been a murder. A man named Tom Burgess. Hes dead. I saw the body.","(To Richard) So you dont believe in magic?"]
+var author5540 = "Raven's Gate", quotes5540 = ["Well if you haven't heard of it, then it obviously doesn't exist!","There's been a murder. A man named Tom Burgess. He's dead. I saw the body.","(To Richard) So you don't believe in magic?"]

@@ -1,1 +1,1 @@
-var author4705 = "Moira Lister", quotes4705 = ["I do feel one learns more from ones failures than from ones successes,","Without my work I would be a neurotic mess."]
+var author4705 = "Moira Lister", quotes4705 = ["I do feel one learns more from one's failures than from one's successes,","Without my work I would be a neurotic mess."]

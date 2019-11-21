@@ -1,1 +1,1 @@
-var author1727 = "Don Herold", quotes1727 = ["Theres one thing about baldness; its neat."]
+var author1727 = "Don Herold", quotes1727 = ["There's one thing about baldness; it's neat."]

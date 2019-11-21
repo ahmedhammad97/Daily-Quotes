@@ -1,1 +1,1 @@
-var author3760 = "Joshua Sylvester", quotes3760 = ["And look upon you with ten thousand eyesTill heaven waxd blind, and till the world were done."]
+var author3760 = "Joshua Sylvester", quotes3760 = ["And look upon you with ten thousand eyesTill heaven wax'd blind, and till the world were done."]

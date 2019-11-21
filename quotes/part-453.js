@@ -1,1 +1,1 @@
-var author453 = "AnnMaria De Mars", quotes453 = ["I mean, were tough but we dont kill our opponents and eat them."]
+var author453 = "AnnMaria De Mars", quotes453 = ["I mean, we're tough but we don't kill our opponents and eat them."]

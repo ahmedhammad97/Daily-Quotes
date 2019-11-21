@@ -1,1 +1,1 @@
-var author5410 = "Priest", quotes5410 = ["Why against priests the genral heat so strong,","Will no one rid me of this turbulent priest? "]
+var author5410 = "Priest", quotes5410 = ["Why against priests the gen'ral heat so strong,","Will no one rid me of this turbulent priest? "]

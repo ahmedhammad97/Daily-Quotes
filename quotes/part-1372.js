@@ -1,1 +1,1 @@
-var author1372 = "Conservation", quotes1372 = ["The conservationists most Important task, if we are to save the earth, is to educate."]
+var author1372 = "Conservation", quotes1372 = ["The conservationist's most Important task, if we are to save the earth, is to educate."]

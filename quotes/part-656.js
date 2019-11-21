@@ -1,1 +1,1 @@
-var author656 = "Auberon Waugh", quotes656 = ["I dont want constructive criticism. I want praise."]
+var author656 = "Auberon Waugh", quotes656 = ["I don't want 'constructive criticism'. I want praise."]

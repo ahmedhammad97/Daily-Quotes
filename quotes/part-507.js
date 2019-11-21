@@ -1,1 +1,1 @@
-var author507 = "Antifa (United States)", quotes507 = ["Its a major gift to the Right, including the militant Right, who are exuberant."]
+var author507 = "Antifa (United States)", quotes507 = ["It's a major gift to the Right, including the militant Right, who are exuberant."]

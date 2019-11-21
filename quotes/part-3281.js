@@ -1,1 +1,1 @@
-var author3281 = "James Soong", quotes3281 = ["Cooperation is not a merger. Theres no need to crush oneself to accommodate others."]
+var author3281 = "James Soong", quotes3281 = ["Cooperation is not a merger. There's no need to crush oneself to accommodate others."]

@@ -1,1 +1,1 @@
-var author3005 = "Iburi Izō", quotes3005 = ["The sign of Gods blessings: the Divine Model."]
+var author3005 = "Iburi Izō", quotes3005 = ["The sign of God's blessings: the Divine Model."]

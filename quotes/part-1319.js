@@ -1,1 +1,1 @@
-var author1319 = "Coincidence", quotes1319 = ["A “strange coincidence,” to use a phrase By which such things are settled nowadays.","This is just too much of a coincidence to be coincidence.","Coincidence is Gods way of remaining anonymous."]
+var author1319 = "Coincidence", quotes1319 = ["A “strange coincidence,” to use a phrase By which such things are settled nowadays.","This is just too much of a coincidence to be coincidence.","Coincidence is God's way of remaining anonymous."]

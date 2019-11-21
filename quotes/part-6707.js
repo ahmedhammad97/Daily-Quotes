@@ -1,1 +1,1 @@
-var author6707 = "Timothee Besset", quotes6707 = ["Thanks to Id fans everywhere .. special mention to Mac/Linux players and European gamers.","Ill be damned if we dont find the time to get Linux builds done."]
+var author6707 = "Timothee Besset", quotes6707 = ["Thanks to Id fans everywhere .. special mention to Mac/Linux players and European gamers.","I'll be damned if we don't find the time to get Linux builds done."]

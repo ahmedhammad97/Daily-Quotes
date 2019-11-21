@@ -1,1 +1,1 @@
-var author100 = "Adam Wainwright", quotes100 = ["Its hard to be a No. 1 when youre not even No. 1 on your team."]
+var author100 = "Adam Wainwright", quotes100 = ["It's hard to be a No. 1 when you're not even No. 1 on your team."]

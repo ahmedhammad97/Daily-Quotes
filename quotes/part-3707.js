@@ -1,1 +1,1 @@
-var author3707 = "Jonah Goldberg", quotes3707 = ["Making meaningful distinctions is not hypocrisy, its called thinking."]
+var author3707 = "Jonah Goldberg", quotes3707 = ["Making meaningful distinctions is not hypocrisy, it's called thinking."]

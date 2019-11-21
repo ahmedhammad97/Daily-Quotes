@@ -1,1 +1,1 @@
-var author1514 = "Danish Peoples Party", quotes1514 = ["Islam is a plague upon Europe.","Let me say it clearly: Muslims should live in Muslim-Country, and this is not here.","Islam has been a terrorist organisation from its very beginning"]
+var author1514 = "Danish People's Party", quotes1514 = ["Islam is a plague upon Europe.","Let me say it clearly: Muslims should live in Muslim-Country, and this is not here.","Islam has been a terrorist organisation from its very beginning"]

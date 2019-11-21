@@ -1,1 +1,1 @@
-var author7304 = "Zane Grey", quotes7304 = ["Dont look back!"]
+var author7304 = "Zane Grey", quotes7304 = ["Don't look back!"]

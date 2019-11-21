@@ -1,1 +1,1 @@
-var author4256 = "Macy Gray", quotes4256 = ["Run the creature has come, theres no cover for you no prize When youve won."]
+var author4256 = "Macy Gray", quotes4256 = ["Run the creature has come, there's no cover for you no prize When you've won."]

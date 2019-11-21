@@ -1,1 +1,1 @@
-var author1282 = "Clarice Lispector", quotes1282 = ["I dont know what to do with the horrifying freedom that can destroy me.","There it is, the sea, the most incomprehensible of non-human existences.","Who hasnt asked oneself, am I a monster or is this what it means to be human?"]
+var author1282 = "Clarice Lispector", quotes1282 = ["I don't know what to do with the horrifying freedom that can destroy me.","There it is, the sea, the most incomprehensible of non-human existences.","Who hasn't asked oneself, am I a monster or is this what it means to be human?"]

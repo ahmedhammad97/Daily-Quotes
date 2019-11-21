@@ -1,1 +1,1 @@
-var author5982 = "Sarah Egerton", quotes5982 = ["From the first dawn of Life, unto the Grave,Poor Womankinds in every State, a Slave.","We will our Rights in Learnings World maintain,Wits Empire, now, shall know a Female Reign."]
+var author5982 = "Sarah Egerton", quotes5982 = ["From the first dawn of Life, unto the Grave,Poor Womankind's in every State, a Slave.","We will our Rights in Learning's World maintain,Wit's Empire, now, shall know a Female Reign."]

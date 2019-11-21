@@ -1,1 +1,1 @@
-var author2245 = "Forrest Sherman", quotes2245 = ["You cant get good marks if youre popular."]
+var author2245 = "Forrest Sherman", quotes2245 = ["You can't get good marks if you're popular."]

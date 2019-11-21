@@ -1,1 +1,1 @@
-var author6778 = "Trent Lott", quotes6778 = ["You could say that I favored segregation then. I dont now.","Ive already seen enough. Why would I want to go see a bunch of perverted pictures?"]
+var author6778 = "Trent Lott", quotes6778 = ["You could say that I favored segregation then. I don't now.","I've already seen enough. Why would I want to go see a bunch of perverted pictures?"]

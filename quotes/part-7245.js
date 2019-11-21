@@ -1,1 +1,1 @@
-var author7245 = "World economy", quotes7245 = ["The world economy diffuses rather than concentrates wealth.","It is virtually impossible to compete in todays global economy without a college degree."]
+var author7245 = "World economy", quotes7245 = ["The world economy diffuses rather than concentrates wealth.","It is virtually impossible to compete in today's global economy without a college degree."]

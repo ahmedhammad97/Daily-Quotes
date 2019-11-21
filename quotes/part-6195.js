@@ -1,1 +1,1 @@
-var author6195 = "Sonic Youth", quotes6195 = ["To the extent that I wear skirts Ive gone native"]
+var author6195 = "Sonic Youth", quotes6195 = ["To the extent that I wear skirts I've gone native"]

@@ -1,1 +1,1 @@
-var author4420 = "Martha Raye", quotes4420 = ["Ask any girl what shed rather be than beautiful, and shell say more beautiful."]
+var author4420 = "Martha Raye", quotes4420 = ["Ask any girl what she'd rather be than beautiful, and she'll say more beautiful."]

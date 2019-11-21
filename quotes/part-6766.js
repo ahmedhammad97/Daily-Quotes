@@ -1,1 +1,1 @@
-var author6766 = "Trade unions", quotes6766 = ["Dont waste any time mourning — organize!"]
+var author6766 = "Trade unions", quotes6766 = ["Don't waste any time mourning — organize!"]

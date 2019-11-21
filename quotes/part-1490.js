@@ -1,1 +1,1 @@
-var author1490 = "Danah Zohar", quotes1490 = ["Organizational theory is based on a cultures answers to questions about the self. "]
+var author1490 = "Danah Zohar", quotes1490 = ["Organizational theory is based on a culture's answers to questions about the self. "]

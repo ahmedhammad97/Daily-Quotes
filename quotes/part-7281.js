@@ -1,1 +1,1 @@
-var author7281 = "Yom Tov of Joigny", quotes7281 = ["Ay, tis thus. Evil us hath in bond;Forgiven!"]
+var author7281 = "Yom Tov of Joigny", quotes7281 = ["Ay, 'tis thus. Evil us hath in bond;Forgiven!"]

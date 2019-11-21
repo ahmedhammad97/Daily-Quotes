@@ -1,1 +1,1 @@
-var author5904 = "Ryan North", quotes5904 = ["Of course its easy to get on public transit! Its public transit.","Im totally applying assumed Creative Commons rights."]
+var author5904 = "Ryan North", quotes5904 = ["Of course it's easy to get on public transit! It's public transit.","I'm totally applying assumed Creative Commons rights."]

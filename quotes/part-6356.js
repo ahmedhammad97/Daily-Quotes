@@ -1,1 +1,1 @@
-var author6356 = "Surfing", quotes6356 = ["It was so big [the wave], it didnt even know we were there."]
+var author6356 = "Surfing", quotes6356 = ["It was so big [the wave], it didn't even know we were there."]

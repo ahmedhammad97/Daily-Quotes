@@ -1,1 +1,1 @@
-var author719 = "Baron dHolbach", quotes719 = ["All children are born Atheists; they have no idea of God."]
+var author719 = "Baron d'Holbach", quotes719 = ["All children are born Atheists; they have no idea of God."]

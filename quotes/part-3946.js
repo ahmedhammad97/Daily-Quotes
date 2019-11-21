@@ -1,1 +1,1 @@
-var author3946 = "Klaus Kinski", quotes3946 = ["I dont care about that scum! Why should I receive a prize? I know that Im a genius!","Why do I continue making movies? Making movies is better than cleaning toilets."]
+var author3946 = "Klaus Kinski", quotes3946 = ["I don't care about that scum! Why should I receive a prize? I know that I'm a genius!","Why do I continue making movies? Making movies is better than cleaning toilets."]

@@ -1,1 +1,1 @@
-var author4931 = "Norman Hunter (author)", quotes4931 = ["Pulpit. A Yorkshiremans instruction to pound something to paste."]
+var author4931 = "Norman Hunter (author)", quotes4931 = ["Pulpit. A Yorkshireman's instruction to pound something to paste."]

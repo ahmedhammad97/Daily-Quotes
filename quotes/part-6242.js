@@ -1,1 +1,1 @@
-var author6242 = "Stanley Lombardo", quotes6242 = ["Theres no way to get around the mind of Zeus.","Shimmering,deathless Aphrodite."]
+var author6242 = "Stanley Lombardo", quotes6242 = ["There's no way to get around the mind of Zeus.","Shimmering,deathless Aphrodite."]
