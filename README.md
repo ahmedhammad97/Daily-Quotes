@@ -8,7 +8,7 @@ The first intuitive thing would to be to have a gigantic static file uploaded to
 
 So, my workaround for this was to write a simple script that splits this gigantic file into smaller **7336 parts**, each containing few quotes for the same author.
 
-Then, I added a simple script that picks a random part, and hook it up to the HTML page. The trick here is to wait for this script to be loaded by the browser, which may take few milliseconds, up to hundreds!
+Then, I added a simple script that picks a random part, and hook it up to the HTML page on the fly. The trick here is to wait for this script to be loaded by the browser, which may take few milliseconds, up to hundreds!
 
 A good workaround was to listen to the completion of the script, and execute the rest of the script afterwards, which was simply rendering the quote, and suggesting *another quotes for the same author* -If exists- (since it's already loaded), or gives the option for a *new random quote*, which will require a refresh.
 
