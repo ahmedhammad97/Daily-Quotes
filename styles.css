@@ -1,1 +1,25 @@
+body {
+  background-color: #2a363b;
+  font-family: monospace;
+}
 
+h1 {
+  font-size: 64px;
+  color: #fecea8;
+  opacity: 0.8;
+}
+
+#quote {
+  font-size: 40px;
+  color: #e84a5f;
+  font-weight: bold;
+  margin-top: 80px;
+}
+
+#author {
+  font-size: 24px;
+  color: #ff847c;
+  margin-left: 60%;
+  font-family: cursive;
+  font-style: italic;
+}
