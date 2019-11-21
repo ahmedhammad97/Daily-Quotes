@@ -1,0 +1,1 @@
+var author3534 = "John Dos Passos", quotes3534 = ["Organization kills.","Walt Whitmans a hell of a lot more revolutionary than any Russian poet Ive ever heard of.","How did they pick John Doe?","The Body of an American, **1919* [1932]","All right we are two nations."]

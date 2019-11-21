@@ -1,0 +1,1 @@
+var author2096 = "Euclid Tsakalotos", quotes2096 = ["Its a difficult deal, a deal for which only time will show if it is economically viable."]

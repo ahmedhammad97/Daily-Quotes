@@ -1,0 +1,1 @@
+var author3119 = "Isabel Bishop", quotes3119 = ["I didnt want to be a woman artist, I just wanted to be an artist."]

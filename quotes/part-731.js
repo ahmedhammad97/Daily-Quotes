@@ -1,0 +1,1 @@
+var author731 = "Basil Hume", quotes731 = ["For my part, he was Gods candidate.","We have really lost in our society the sense of the sacredness of life."]

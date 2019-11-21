@@ -1,0 +1,1 @@
+var author1727 = "Don Herold", quotes1727 = ["Theres one thing about baldness; its neat."]

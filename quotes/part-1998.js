@@ -1,0 +1,1 @@
+var author1998 = "Emma Roberts", quotes1998 = ["No, I dont have a boyfriend, [...] I dont want one."]

@@ -1,0 +1,1 @@
+var author6993 = "Walther von Brauchitsch", quotes6993 = ["I myself wont do anything, but I wont stop anyone else from acting."]

@@ -1,0 +1,1 @@
+var author3127 = "Islands", quotes3127 = ["Fast-anchord isle.","Summer isles of Eden, lying in dark purple spheres of sea.","From the sprinkled isles,Lily on lily, that oerlace the sea.","Beautiful isle of the sea, Smile on the brow of the waters.","O, its a snug little island!A right little, tight little island!","Ay, many flowering islands lieIn the waters of wide Agony."]

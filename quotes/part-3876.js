@@ -1,0 +1,1 @@
+var author3876 = "Katherine Heigl", quotes3876 = ["I have a real problem giving up that kind of control. You know, my mother helps me.","Im still figuring out who I am. But at least I know what I want.","My sense of humor is the raunchier, inappropriate kind. Its so much funnier than the quirky stuff."]

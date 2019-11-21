@@ -1,0 +1,1 @@
+var author1857 = "Edmund Landau", quotes1857 = ["Please forget everything that you have learned in school; for you havent learned it.","Please dont read the preface for the teacher."]

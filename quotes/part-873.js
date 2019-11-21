@@ -1,0 +1,1 @@
+var author873 = "Bob Beatty", quotes873 = ["If youre going to be in this program, youre going to punch the clock.","You had better pray hard, because you belong to me now.","We try to get more done in two hours than other teams do in two weeks."]

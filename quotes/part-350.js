@@ -1,0 +1,1 @@
+var author350 = "Amber Benson", quotes350 = ["It doesnt matter who you sleep with, its how you treat other people in this world. ","I dont think you ever die on Buffy.","I dont think anything lives up to what you envisioned.","Tara: Sweetie, you wouldnt blow off a class if your head was on fire. ","Willow: Hey, clothes.Tara: Better not get used to em. "]

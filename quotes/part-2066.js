@@ -1,0 +1,1 @@
+var author2066 = "Ernest King", quotes2066 = ["Dont tell them anything. When its over, tell them who won.","SUSPEND ALL OFFENSIVE ACTION. REMAIN ALERT."]

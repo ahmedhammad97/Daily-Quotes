@@ -1,0 +1,1 @@
+var author5031 = "Orlando Bloom", quotes5031 = ["I havent been like, Is there a sword in that movie? All right, Ill do it!"]

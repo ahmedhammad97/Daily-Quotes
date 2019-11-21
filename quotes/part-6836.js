@@ -1,0 +1,1 @@
+var author6836 = "Universals", quotes6836 = ["Platos discovery went as follows."]

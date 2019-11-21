@@ -1,0 +1,1 @@
+var author3568 = "John Henry Boner", quotes3568 = ["I love you becauseYoure a sweet little fool!"]

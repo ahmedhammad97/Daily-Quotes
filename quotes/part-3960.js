@@ -1,0 +1,1 @@
+var author3960 = "Kshama Sawant", quotes3960 = ["When things are exquisitely beautiful and rare, they shouldnt be privately owned."]

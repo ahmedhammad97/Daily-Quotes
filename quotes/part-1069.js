@@ -1,0 +1,1 @@
+var author1069 = "Carolina, Baroness Nairne", quotes1069 = ["Shes mad for refusing the Laird o Cockpen."]

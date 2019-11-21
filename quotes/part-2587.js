@@ -1,0 +1,1 @@
+var author2587 = "Gloria Steinem", quotes2587 = ["If the shoe doesnt fit, must we change the foot?","Women may be the one group that grows more radical with age."]

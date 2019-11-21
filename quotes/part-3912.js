@@ -1,0 +1,1 @@
+var author3912 = "Kerala", quotes3912 = ["Gods own country"]

@@ -1,0 +1,1 @@
+var author382 = "Anastas Mikoyan", quotes382 = ["We are watching the Germans closely; we are not forgetting what they did to us during the war.","If Stalin could only see us now, with the American Ambassador here, hed turn in his grave."]

@@ -1,0 +1,1 @@
+var author1260 = "Chrystos", quotes1260 = ["I’m too tired to be angry enough","Im angry that I cant sleep&nbsp;&nbsp;&nbsp; that I hate myself"]

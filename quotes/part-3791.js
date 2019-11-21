@@ -1,0 +1,1 @@
+var author3791 = "Judy Garland", quotes3791 = ["I was born at the age of twelve on a Metro-Goldwyn-Mayer lot.","Ive never looked through a keyhole without finding someone was looking back.","Im just an Irish biddy."]

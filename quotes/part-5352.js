@@ -1,0 +1,1 @@
+var author5352 = "Plug-in hybrid", quotes5352 = ["It represents nothing less than the first step in the reinvention of the automobile.","Volt is the GMs most important model in decades -- and possibly the key to its survival.","Its not a car for everyone, but its the first step toward a new kind of car for everyone.","The buzz-phrase now is plug-in hybrid,"]

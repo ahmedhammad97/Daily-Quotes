@@ -1,0 +1,1 @@
+var author5975 = "Santiago Martínez Delgado", quotes5975 = ["Only give me your word that if I increase your papers circulation youll give me a job” (1925)).","I am not my self, I am the result of all my ancestors."]

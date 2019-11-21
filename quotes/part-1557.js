@@ -1,0 +1,1 @@
+var author1557 = "David Gilmour", quotes1557 = ["Its crazy that America gives such a paltry percentage of its GNP to the starving nations.","Where would rock and roll be without feedback?","Jimi Hendrix isnt as good as me!","Obviously, theyre all a gang of idiots. But, you know... live and let live."]

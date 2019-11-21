@@ -1,0 +1,1 @@
+var author2091 = "Ethan Hawke", quotes2091 = ["...But the truth is, Ive never wanted to be a movie star - and Ive been pretty clear about that."]

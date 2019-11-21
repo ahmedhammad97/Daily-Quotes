@@ -1,0 +1,1 @@
+var author1122 = "Charles Bukowski", quotes1122 = ["Its 4:30 in the morning, its always 4:30 in the morning.","Ive never met another man Id rather be."]

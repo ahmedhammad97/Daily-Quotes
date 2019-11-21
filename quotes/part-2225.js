@@ -1,0 +1,1 @@
+var author2225 = "Flirting", quotes2225 = ["Flirtation, attention without intention.","From a grave thinking mouser, she was grownThe gayest flirt that coachd it round the town."]

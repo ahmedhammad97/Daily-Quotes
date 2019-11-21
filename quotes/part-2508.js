@@ -1,0 +1,1 @@
+var author2508 = "George Reisman", quotes2508 = ["The slaves of socialism are slaves, but they are no ones property and therefore no ones loss."]

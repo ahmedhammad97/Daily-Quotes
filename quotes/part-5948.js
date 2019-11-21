@@ -1,0 +1,1 @@
+var author5948 = "Samuel Goldwyn", quotes5948 = ["I dont think anybody should write his autobiography until after hes dead."]

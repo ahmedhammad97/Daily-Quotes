@@ -1,0 +1,1 @@
+var author253 = "Alex Jones", quotes253 = ["Theres a war on for your mind!"]

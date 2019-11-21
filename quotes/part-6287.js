@@ -1,0 +1,1 @@
+var author6287 = "Steve Lyons", quotes6287 = ["Pudge is so old, they didnt have history class when he went to school."]

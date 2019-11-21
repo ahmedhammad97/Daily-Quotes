@@ -1,0 +1,1 @@
+var author5681 = "Rick Rescorla", quotes5681 = ["We shouldnt have been deployed in Vietnam.","We cant even straighten up our capital in terms of crime."]

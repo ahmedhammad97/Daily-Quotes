@@ -1,0 +1,1 @@
+var author6807 = "Ty Cobb", quotes6807 = ["Ive been called one of the hardest bargainers who ever held out, and Im proud of it.","A ball bat is a wondrous weapon."]

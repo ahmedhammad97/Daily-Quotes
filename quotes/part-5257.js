@@ -1,0 +1,1 @@
+var author5257 = "Peter Weiss", quotes5257 = ["Only in his poetry did he have the courage to love.","Whats the point of a revolutioncopulation copulation copulation","We can say what we like without favour or fearand what we cant say we can breathe in your ear","Ive twisted and turned them every way, And can see no ending to our play."]

@@ -1,0 +1,1 @@
+var author5095 = "Paranoia", quotes5095 = ["A paranoid man is a man who knows a little about whats going on.","Its not paranoia if theyre really after you.","Just because youre paranoidDont mean theyre not after you"]

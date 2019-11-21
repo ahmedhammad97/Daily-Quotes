@@ -1,0 +1,1 @@
+var author2659 = "Groucho Marx", quotes2659 = ["A likely story — and probably true.","I never forget a face, but in your case Ill be glad to make an exception.","My experience is that people are most likely to listen to reason when in bed.","I dont have a photograph. Id give you my footprints, but theyre upstairs in my socks.","Die, my dear? Why thats the last thing Ill do!"]

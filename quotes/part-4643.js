@@ -1,0 +1,1 @@
+var author4643 = "Mike Huckabee", quotes4643 = ["I hope we answer the alarm clock and take this nation back for Christ.","I didnt major in math. I majored in miracles, and I still believe in them, too.","Maybe [Pres. Obama] would take ISIS seriously if he discovered they didnt recycle."]

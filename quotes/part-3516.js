@@ -1,0 +1,1 @@
+var author3516 = "John Cornyn", quotes3516 = ["Well, you know, thats the problem in America, were always having elections."]

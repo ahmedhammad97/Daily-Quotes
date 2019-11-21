@@ -1,0 +1,1 @@
+var author5832 = "Ron Reagan", quotes5832 = ["I would be unelectable. Im an atheist. As we all know, that is something people wont accept."]

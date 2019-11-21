@@ -1,0 +1,1 @@
+var author3457 = "Joel Chandler Harris", quotes3457 = ["Brer Fox, he lay low.","Lazy fokess stummucks dont git tired.","Jay-bird dont rob his own nes.","Hungry rooster dont cackle wen he fine a wum."]

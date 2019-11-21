@@ -1,0 +1,1 @@
+var author6193 = "Song of Solomon", quotes6193 = ["I am my beloveds, and my beloved is mine: he feedeth among the lilies."]

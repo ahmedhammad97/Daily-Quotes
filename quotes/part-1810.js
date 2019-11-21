@@ -1,0 +1,1 @@
+var author1810 = "Eamon Gilmore", quotes1810 = ["Its Labours way or Frankfurts way.","That debate is over and the referendum has delivered a result.","Running around like a blue-behind bluebottle waving slogans."]

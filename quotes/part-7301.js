@@ -1,0 +1,1 @@
+var author7301 = "Zach Braff", quotes7301 = ["But dont worry... only yours is right."]

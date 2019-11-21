@@ -1,0 +1,1 @@
+var author2629 = "Graffiti", quotes2629 = ["People say graffiti is ugly, irresponsible and childish. But thats only if its done properly."]

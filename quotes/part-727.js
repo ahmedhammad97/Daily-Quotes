@@ -1,0 +1,1 @@
+var author727 = "Bart D. Ehrman", quotes727 = ["Judass act of betrayal is in fact his faithful obedience to Jesus will. "]

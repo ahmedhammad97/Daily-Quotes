@@ -1,0 +1,1 @@
+var author5752 = "Robert Kagan", quotes5752 = ["When you dont have a hammer, you dont want anything to look like a nail."]

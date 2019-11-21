@@ -1,0 +1,1 @@
+var author1621 = "Deflation", quotes1621 = ["See your disappointments as good fortune. One plans deflation is anothers inflation.","Globalization was exerting a dis-inflationary impact. ","You cant push on a string."]

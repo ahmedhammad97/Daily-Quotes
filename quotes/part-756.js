@@ -1,0 +1,1 @@
+var author756 = "Ben Elton", quotes756 = ["Lies are as important as truth, for without lies, the truth is worthless.","Leave a message, dont leave a message. live, die, its all the same dream."]

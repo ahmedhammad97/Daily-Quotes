@@ -1,0 +1,1 @@
+var author5241 = "Peter Ladefoged", quotes5241 = ["It was really [David] Whitteridge who taught me to be a scientist.","I wanted to find out why Shelley could write better-sounding poetry than I.","[Its] not our decision to make. Its up to the people themselves."]

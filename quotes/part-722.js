@@ -1,0 +1,1 @@
+var author722 = "Barry Goldwater", quotes722 = ["Im the most underdog underdog there is.","I think every good Christian ought to kick Falwell right in the ass."]

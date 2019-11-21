@@ -1,0 +1,1 @@
+var author5256 = "Peter Weir", quotes5256 = ["When you get a cut and think, Im going to make a halfway decent film.","The feeling that maybe you wont ever get your inspiration back. Thats a very cold place to be."]

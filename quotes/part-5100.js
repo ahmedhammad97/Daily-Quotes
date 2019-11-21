@@ -1,0 +1,1 @@
+var author5100 = "Paris Hilton", quotes5100 = ["Thats hot!.","Youre a fucking bitch. Im going to destroy you.","To me, anything goes. But thats me.","The only rule is dont be boring and dress cute wherever you go. Life is too short to blend in."]

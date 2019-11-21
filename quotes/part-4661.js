@@ -1,0 +1,1 @@
+var author4661 = "Milton Bradley (baseball)", quotes4661 = ["I dont play this game to make friends.","Im always OK. As long as Im black, Im fine."]

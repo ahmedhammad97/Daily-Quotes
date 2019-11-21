@@ -1,0 +1,1 @@
+var author5701 = "Roald Dahl", quotes5701 = ["A little nonsense now and then, is cherished by the wisest men.”","Grown-ups are quirky creatures, full of quirks and secrets.","Two rights dont equal a left.","It doesnt matter who you are or what you look like so long as somebody loves you."]

@@ -1,0 +1,1 @@
+var author1280 = "Clarence Day", quotes1280 = ["You cant sweep other people off their feet, if you cant be swept off your own.","Informations pretty thin stuff unless mixed with experience."]

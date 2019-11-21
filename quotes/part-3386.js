@@ -1,0 +1,1 @@
+var author3386 = "Jerome K. Jerome", quotes3386 = ["All is vanity and everybodys vain. Women are terribly vain. So are men — more so, if possible.","We drink one anothers health and spoil our own.","Sunlight is the life-blood of Nature."]

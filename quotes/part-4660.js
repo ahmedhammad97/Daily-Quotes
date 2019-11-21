@@ -1,0 +1,1 @@
+var author4660 = "Milton Berle", quotes4660 = ["Im 83, and I feel like a 20-year-old, but unfortunately theres never one around."]

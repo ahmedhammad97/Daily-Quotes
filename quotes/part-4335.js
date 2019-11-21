@@ -1,0 +1,1 @@
+var author4335 = "Marcus Buckingham", quotes4335 = ["Each persons greatest room for growth is in the areas of his or her greatest strength."]

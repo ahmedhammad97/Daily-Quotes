@@ -1,0 +1,1 @@
+var author3702 = "Jolene Blalock", quotes3702 = ["I dont know where to begin with that one...the final episode is… appalling."]

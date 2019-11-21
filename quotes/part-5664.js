@@ -1,0 +1,1 @@
+var author5664 = "Richard Pryor", quotes5664 = ["Why me? Ten million motherfuckers freebasing, and Im the one who blows up!","I went through every phone book in Africa, and I didnt find one god damned Pryor!","I dont want to go through life as a Wonder Wheel murderer!"]

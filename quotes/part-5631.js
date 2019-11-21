@@ -1,0 +1,1 @@
+var author5631 = "Richard Crashaw", quotes5631 = ["Loves great artillery."]

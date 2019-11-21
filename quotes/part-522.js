@@ -1,0 +1,1 @@
+var author522 = "António Guterres", quotes522 = ["The dramatic problems of todays complex world can only inspire a humble approach."]

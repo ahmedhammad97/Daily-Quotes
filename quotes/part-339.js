@@ -1,0 +1,1 @@
+var author339 = "Allen West (politician)", quotes339 = ["If its about the lives of my men and their safety, Id go through hell with a gasoline can.","Were going to be successful Tuesday night, dont worry."]

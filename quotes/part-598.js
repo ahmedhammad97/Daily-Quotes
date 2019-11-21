@@ -1,0 +1,1 @@
+var author598 = "Arthur Guiterman", quotes598 = ["The Deer dont dineSticks his quill-points out."]

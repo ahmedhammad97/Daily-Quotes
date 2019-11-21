@@ -1,0 +1,1 @@
+var author4649 = "Mike Watt", quotes4649 = ["Whats obvious to me isnt always obvious to other people."]

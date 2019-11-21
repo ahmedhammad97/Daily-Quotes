@@ -1,0 +1,1 @@
+var author2701 = "H.D.", quotes2701 = ["We dont have to know,reason and vanity."]

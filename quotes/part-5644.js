@@ -1,0 +1,1 @@
+var author5644 = "Richard Griffiths", quotes5644 = ["I hate being the subject of photographs.","Thats not girth. Thats a para-umbilical hernia.","Ive always hated the way I looked, and Ive never complained about my brains."]

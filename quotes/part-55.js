@@ -1,0 +1,1 @@
+var author55 = "Abdulla Yameen", quotes55 = ["Its now time to bring peace, the people have decided. Its now time for development"]

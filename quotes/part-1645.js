@@ -1,0 +1,1 @@
+var author1645 = "Denomination", quotes1645 = ["I dont care what denomination you belong to, as long as youre embarrassed by it."]

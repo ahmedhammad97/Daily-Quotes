@@ -1,0 +1,1 @@
+var author2498 = "George McGovern", quotes2498 = ["Im fed up to the ears with old men dreaming up wars for young men to die in."]

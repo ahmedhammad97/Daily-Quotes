@@ -1,0 +1,1 @@
+var author4410 = "Marriott Edgar", quotes4410 = ["Theres a famous seaside place called Blackpool,Thats noted for fresh air and fun."]

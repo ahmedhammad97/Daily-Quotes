@@ -1,0 +1,1 @@
+var author3224 = "James Cameron (director)", quotes3224 = ["Im the king of the world!","Everything is backwards now, like out there is the the real world and this is the dream.","Sometimes your whole life boils down to one insane move."]

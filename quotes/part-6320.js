@@ -1,0 +1,1 @@
+var author6320 = "Streams", quotes6320 = ["The streams, rejoiced that winters work is done,Talk of to-morrows cowslips as they run.","From Helicons harmonious springsA thousand rills their mazy progress take.","The music of the brook silenced all conversation."]

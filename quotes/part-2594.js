@@ -1,0 +1,1 @@
+var author2594 = "Goddess", quotes2594 = ["GOD IS COMING, AND IS SHE PISSED!","I dont believe in God but Im very interested in her.","There are no rules anywhere. The Goddess Prevails.","There is no Goddess but Goddess and She is Your Goddess."]

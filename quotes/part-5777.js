@@ -1,0 +1,1 @@
+var author5777 = "Robert Patrick (playwright)", quotes5777 = ["Its my party and Ill die if I want to!"]

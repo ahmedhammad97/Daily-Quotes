@@ -1,0 +1,1 @@
+var author963 = "Bruce Chatwin", quotes963 = ["To lose a passport was the least of ones worries. To lose a notebook was a catastrophe."]

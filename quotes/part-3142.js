@@ -1,0 +1,1 @@
+var author3142 = "Ivor Cutler", quotes3142 = ["Youll leave this theatre in a different state."]

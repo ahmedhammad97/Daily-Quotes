@@ -1,0 +1,1 @@
+var author5920 = "Sadomasochism", quotes5920 = ["Its been so long since I made love, I cant even remember who gets tied up."]

@@ -1,0 +1,1 @@
+var author2788 = "Hebephilia", quotes2788 = ["Ever since you turned 13 every guy youve met has been trying to fuck you"]

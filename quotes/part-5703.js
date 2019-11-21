@@ -1,0 +1,1 @@
+var author5703 = "Rob Ford", quotes5703 = ["Its no secret, okay. The cyclists are a pain in the ass to the motorists."]

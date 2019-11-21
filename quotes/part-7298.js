@@ -1,0 +1,1 @@
+var author7298 = "Yvette Cooper", quotes7298 = ["Its a great honour for me; its such an important job."]

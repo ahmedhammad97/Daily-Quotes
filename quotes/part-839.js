@@ -1,0 +1,1 @@
+var author839 = "Billy Joel", quotes839 = ["Dont take any shit from anybody!"]

@@ -1,0 +1,1 @@
+var author6434 = "Taryn Manning", quotes6434 = ["Maybe my face is edgy, but thats because its the face of somebody whos seen life.","Im not a greedy person, I just want to accomplish so many different things."]

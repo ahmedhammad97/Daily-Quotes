@@ -1,0 +1,1 @@
+var author2098 = "Eudora Welty", quotes2098 = ["If youre so smart, why aint you rich?","All serious daring starts from within.","Human life is fictions only theme.","All experience is an enrichment rather than an impoverishment."]

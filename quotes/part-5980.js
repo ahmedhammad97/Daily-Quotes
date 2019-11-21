@@ -1,0 +1,1 @@
+var author5980 = "Sarah Bernhardt", quotes5980 = ["Me pray? Never! Im an atheist.","Acting is all internal, but must be externalized."]

@@ -1,0 +1,1 @@
+var author6167 = "Snow", quotes6167 = ["Wheres the snowThat fell the year thats fled—wheres the snow?","A little snow, tumbled about, anon becomes a mountain.","For thou wilt lie upon the wings of nightWhiter than new snow on a ravens back.","Lawn as white as driven snow."]

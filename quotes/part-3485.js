@@ -1,0 +1,1 @@
+var author3485 = "John Birtwhistle", quotes3485 = ["Clares essay was itself an attempt at popularity through essayistic journalism.","The essay was impelled by Clares anxiety that his poems were slipping out if fashion."]

@@ -1,0 +1,1 @@
+var author5690 = "Rihanna", quotes5690 = ["[G]enetically my legs are supposed to be huge. I cant really think about it, or Ill go crazy.","The hardest thing for me is to say no. I feel like a bitch. But sometimes I dont have a choice."]

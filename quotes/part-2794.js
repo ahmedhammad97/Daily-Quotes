@@ -1,0 +1,1 @@
+var author2794 = "Heinrich Müller", quotes2794 = ["Soup is never eaten as hot as it is cooked.","If we had fifty Eichmanns, we would have won the war.","One should herd the entire intelligentsia into a mine and then blow it sky-high."]

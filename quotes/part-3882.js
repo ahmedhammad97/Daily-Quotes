@@ -1,0 +1,1 @@
+var author3882 = "Katie Melua", quotes3882 = ["A fucking good tune","Dancing is an important function of music, but so is crying.","Promo? Its a fucking nightmare!","Some people think its got a double meaning, but as my mums in the audience tonight, it doesnt."]

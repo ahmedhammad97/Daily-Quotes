@@ -1,0 +1,1 @@
+var author3378 = "Jennifer Shahade", quotes3378 = ["Tournament chess is not relaxing. Its stressful, even if you win.","I love chess, but its the height of decadence."]

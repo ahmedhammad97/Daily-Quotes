@@ -1,0 +1,1 @@
+var author4132 = "Lindsay Lohan", quotes4132 = ["I knew I had a problem, and I couldnt admit it. ","Dont ever say this to me, Are you O.K.? Its like Yeah, motherfucker, Im fine. "]

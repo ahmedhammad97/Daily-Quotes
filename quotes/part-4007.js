@@ -1,0 +1,1 @@
+var author4007 = "Larry McMurtry", quotes4007 = ["A womans love is like the morning dew. Its just as likely to settle on a horse turd as a rose.","Pat, did they get you for the embezzling? Harmony asked."]

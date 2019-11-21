@@ -1,0 +1,1 @@
+var author38 = "A. Whitney Brown", quotes38 = ["Im not a vegetarian because I love animals. Im a vegetarian because I hate plants.","That is the saving grace of humor, if you fail no one is laughing at you."]

@@ -1,0 +1,1 @@
+var author5914 = "Sacha Guitry", quotes5914 = ["Honest women are inconsolable for the mistakes they havent made.","You can pretend to be serious but you cant pretend to be witty.","The little I know, I owe to my ignorance.","When a man marries his mistress, he creates a job vacancy.","When a man steals your wife there is no better revenge than to let him keep her."]

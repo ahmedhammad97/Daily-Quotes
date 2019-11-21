@@ -1,0 +1,1 @@
+var author3413 = "Jim Jones", quotes3413 = ["If we cant live in peace, then lets die in peace."]

@@ -1,0 +1,1 @@
+var author2213 = "Fiona Apple", quotes2213 = ["I dont have a big thing about leaving my mark or being historic.","Dont waste your crazy!"]

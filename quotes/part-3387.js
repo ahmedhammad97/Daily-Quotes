@@ -1,0 +1,1 @@
+var author3387 = "Jerry Brown", quotes3387 = ["Theres nothing wrong with being an anarchist."]

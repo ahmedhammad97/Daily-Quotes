@@ -1,0 +1,1 @@
+var author956 = "Bricklayers", quotes956 = ["Sir, he made a chimney in my fathers house, and the bricks are alive at this day to testify it."]

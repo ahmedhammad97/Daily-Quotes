@@ -1,0 +1,1 @@
+var author5880 = "Ruling class", quotes5880 = ["They dont really care about us."]

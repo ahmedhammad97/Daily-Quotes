@@ -1,0 +1,1 @@
+var author5860 = "Roy Lichtenstein", quotes5860 = ["Art doesnt transform. It just plain forms."]

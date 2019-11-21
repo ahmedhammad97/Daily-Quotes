@@ -1,0 +1,1 @@
+var author6520 = "The Lost Mind of Dr. Brain", quotes6520 = ["Hello, Joes Pizza? [laughs] I am just kidding, its Dr. Brain! Whos this?","Dr. Brain has transferred too much of his intellect to Rathbone."]

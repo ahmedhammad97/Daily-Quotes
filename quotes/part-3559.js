@@ -1,0 +1,1 @@
+var author3559 = "John Gotti", quotes3559 = ["That shit comes from your fucking mother, not from me.","Being a nigger is embarrassment, being John Gottis grandson is an honor.","Kids Imitating all these coons...imitate niggers...your presidents a piece of crap.","Im not your father or Johns father or these kidss grandfather."]

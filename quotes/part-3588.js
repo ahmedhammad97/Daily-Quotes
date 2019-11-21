@@ -1,0 +1,1 @@
+var author3588 = "John Kruk", quotes3588 = ["I aint an athlete, lady. Im a ballplayer."]

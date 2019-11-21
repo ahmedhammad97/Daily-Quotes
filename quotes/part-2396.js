@@ -1,0 +1,1 @@
+var author2396 = "Galaxy", quotes2396 = ["Its a tough galaxy. If you want to survive, youve gotta know...where your towel is.","You said it yourself, bitch: Were the Guardians of the Galaxy."]

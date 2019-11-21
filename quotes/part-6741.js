@@ -1,0 +1,1 @@
+var author6741 = "Tommy Franks", quotes6741 = ["We dont do body counts."]

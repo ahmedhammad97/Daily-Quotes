@@ -1,0 +1,1 @@
+var author5462 = "Purity", quotes5462 = ["Whiter than new snow on a ravens back.","Unto the pure all things are pure."]

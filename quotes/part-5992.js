@@ -1,0 +1,1 @@
+var author5992 = "Sarah Vowell", quotes5992 = ["Buffys high school was built on top of a vortex of evil, the Hellmouth. And whose wasnt?","The true American patriot is by definition skeptical of the government."]

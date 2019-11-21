@@ -1,0 +1,1 @@
+var author4609 = "Michael Phelps", quotes4609 = ["Dream as big as you can dream, and anything is possible.","Its not how you start, but its how you finish."]

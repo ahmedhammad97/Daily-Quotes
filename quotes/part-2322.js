@@ -1,0 +1,1 @@
+var author2322 = "Fred Perry", quotes2322 = ["I didnt aspire to be a good sport; champion was good enough for me. "]

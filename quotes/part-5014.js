@@ -1,0 +1,1 @@
+var author5014 = "Opportunity cost", quotes5014 = ["There aint no such thing as a free lunch."]

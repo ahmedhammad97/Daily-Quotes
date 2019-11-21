@@ -1,0 +1,1 @@
+var author960 = "Brothels", quotes960 = ["Prisons are built with stones of law; brothels with bricks of religion.","This is virgin territory out here for whorehouses.","If they dont like the brothels, they neednt go to them.","No-one was ever made wretched in a brothel."]

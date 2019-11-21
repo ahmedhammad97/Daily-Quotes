@@ -1,0 +1,1 @@
+var author7052 = "Wilhelm Frick", quotes7052 = ["Long live eternal Germany!","It was sad. Its war. Many others died, too. Its war."]

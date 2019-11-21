@@ -1,0 +1,1 @@
+var author6373 = "Suzanne Vega", quotes6373 = ["I have swallowed a secret burning thread.","I wont march again on your battlefield.","If you were to kill me now right here, I would still look you in the eye"]

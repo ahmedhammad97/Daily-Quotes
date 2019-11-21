@@ -1,0 +1,1 @@
+var author6071 = "Sex Pistols", quotes6071 = ["Thats no problemthe problem is you!","Were so pretty, oh so prettyAnd we dont care!","We mean it, ma-a-a-a-a-an!","There is no future in Englands dreaming.","Dont know what I want but I know how to get it."]

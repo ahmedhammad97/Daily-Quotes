@@ -1,0 +1,1 @@
+var author6513 = "The Great Unraveling", quotes6513 = ["Metaphors can be tricky things, but Manhattans debt clock is as good as they come.","Dont assume that policy proposals make sense in terms of their stated goals."]

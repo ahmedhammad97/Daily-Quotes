@@ -1,0 +1,1 @@
+var author6912 = "Vince Cable", quotes6912 = ["Were being held to ransom by these pinstripe Scargills..."]

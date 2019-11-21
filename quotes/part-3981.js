@@ -1,0 +1,1 @@
+var author3981 = "La Fille aux yeux dor", quotes3981 = ["People crushed with business, who, if they attain their end, are literally killed in its attainment."]

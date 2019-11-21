@@ -1,0 +1,1 @@
+var author615 = "Arthur Ransome", quotes615 = ["A pigeon a day keeps the natives away","Grab a chance and you wont be sorry for a might-have-been."]

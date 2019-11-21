@@ -1,0 +1,1 @@
+var author475 = "Anne of Avonlea", quotes475 = ["Fancies are like shadows . . . you cant cage them, theyre such wayward, dancing things.","Every morn is a fresh beginning,","If a kiss could be seen I think it would look like a violet, said Priscilla.","Look do you see that poem? she said suddenly, pointing.","I dont care what people think about me if they dont let me see it."]

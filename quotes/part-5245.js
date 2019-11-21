@@ -1,0 +1,1 @@
+var author5245 = "Peter S. Pande", quotes5245 = ["Understanding Six Sigma doesnt require any skill or background in statistics."]

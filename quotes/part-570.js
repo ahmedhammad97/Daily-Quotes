@@ -1,0 +1,1 @@
+var author570 = "Arlo Guthrie", quotes570 = ["I froze in time! And I thought My God......Im free!","...And it was about four or five hours later that Alice — Remember Alice? Its a song about Alice."]

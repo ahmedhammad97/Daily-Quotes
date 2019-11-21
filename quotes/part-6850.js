@@ -1,0 +1,1 @@
+var author6850 = "Utah Phillips", quotes6850 = ["Im here to change the world, and if I am not, I am probably wasting my time."]

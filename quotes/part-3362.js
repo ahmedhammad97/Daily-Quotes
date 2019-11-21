@@ -1,0 +1,1 @@
+var author3362 = "Jeff Bezos", quotes3362 = ["If you absolutely cant tolerate critics, then dont do anything new or interesting. "]

@@ -1,0 +1,1 @@
+var author196 = "Alan Kotok", quotes196 = ["Im opposed to any sport that reduces the coefficient of friction between me and the ground.","Im suspicious of any mode of transportation that requires a running start.","Its hard to lose weight when youre dining on the companys money.","We hadnt invented Not Invented Here, yet."]

@@ -1,0 +1,1 @@
+var author2582 = "Glenn Beck", quotes2582 = ["Hello, you sick twisted freak.","The hottest year in global [sic] history was 1934.","I could give a flying crap about the political process.... Were an entertainment company.","Be who you really are, not who you allowed yourself to become."]

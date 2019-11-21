@@ -1,0 +1,1 @@
+var author3682 = "John Wayne", quotes3682 = ["If I had known this, I wouldve put that patch on thirty-five years earlier.","We had a pretty good time together, when she wasnt trying to kill me!"]

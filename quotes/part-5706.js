@@ -1,0 +1,1 @@
+var author5706 = "Rob Thomas", quotes5706 = ["Some things you dont need until they leave you, theyre the things that you miss","Im the flame I cant get burnt","Everyones trusting in their hearts, like their heart dont lie ","Can you help me? Im bent, Im so scared that Ill never get put back together."]

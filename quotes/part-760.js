@@ -1,0 +1,1 @@
+var author760 = "Ben Stiller", quotes760 = ["All those rumors about her being underweight are trash. Shes gorgeous."]

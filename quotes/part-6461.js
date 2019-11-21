@@ -1,0 +1,1 @@
+var author6461 = "Temple Grandin", quotes6461 = ["Its OK to be an eccentric; its not OK to be a rude and dirty eccentric.","Even today, romantic love is just not part of my life. And you know what? Thats okay with me.","(About the workplace) Tyrants who get into power make life miserable for everyone."]

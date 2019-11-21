@@ -1,0 +1,1 @@
+var author4927 = "Norman Borlaug", quotes4927 = ["You cant build a peaceful world on empty stomachs and human misery."]

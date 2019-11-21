@@ -1,0 +1,1 @@
+var author3221 = "James Burke (science historian)", quotes3221 = ["Edison invented inventing.","You can only know where youre going if you know where youve been.","Never before have so many people understood so little about so much."]

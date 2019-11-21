@@ -1,0 +1,1 @@
+var author1804 = "E. L. James", quotes1804 = ["I vowed I would bring you solace in time of need. Please dont make me break my vows."]

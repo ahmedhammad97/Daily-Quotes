@@ -1,0 +1,1 @@
+var author3367 = "Jeff Lynne", quotes3367 = ["At the end of the day I have to please myself. And Ive made a record to please myself."]

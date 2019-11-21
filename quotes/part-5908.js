@@ -1,0 +1,1 @@
+var author5908 = "S. J. Perelman", quotes5908 = ["I have Brights disease and he has mine.","Before they made S J Perelman they broke the mold.","Fate was dealing from the bottom of the deck.","The main obligation is to amuse yourself."]

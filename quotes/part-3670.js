@@ -1,0 +1,1 @@
+var author3670 = "John Travolta", quotes3670 = ["Its hard to make a cultural phenomenon every time."]

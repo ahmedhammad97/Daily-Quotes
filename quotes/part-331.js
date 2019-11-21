@@ -1,0 +1,1 @@
+var author331 = "Alice Roosevelt Longworth", quotes331 = ["He looks as though hes been weaned on a pickle.","The little man on the wedding cake.","If you cant say something good about someone, sit right here by me.","Ive always believed in the adage that the secret of eternal youth is arrested development."]

@@ -1,0 +1,1 @@
+var author1471 = "Dallin H. Oaks", quotes1471 = ["You can never get enough of what you dont need, because what you dont need wont satisfy you.","If you wish to marry well, inquire well.","If we choose the wrong road, we choose the wrong destination.","Its wrong to criticize leaders of the church, even if the criticism is true."]

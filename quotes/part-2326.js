@@ -1,0 +1,1 @@
+var author2326 = "Fred W. Friendly", quotes2326 = ["Television makes so much at its worst that it cant afford to do its best.","A composite is a euphemism for a lie. Its disorderly. Its dishonest and its not journalism.","What we dont know as a nation and as a citizen can kill us."]

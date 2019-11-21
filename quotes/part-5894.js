@@ -1,0 +1,1 @@
+var author5894 = "Russell Crowe", quotes5894 = ["Theres nothing like sitting back and talking to your cows."]

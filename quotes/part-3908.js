@@ -1,0 +1,1 @@
+var author3908 = "Kent Beck", quotes3908 = ["Im not a great programmer; Im just a good programmer with great habits.","Optimism is an occupational hazard of programming: feedback is the treatment."]

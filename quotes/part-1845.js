@@ -1,0 +1,1 @@
+var author1845 = "Edie Sedgwick", quotes1845 = ["Its not that Im rebelling. Its that Im just trying to find another way.","Isnt that sad! Im so fragile. Its tragic [laughs]. Can you believe it? Thats so sad."]

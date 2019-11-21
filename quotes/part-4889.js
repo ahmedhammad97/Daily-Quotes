@@ -1,0 +1,1 @@
+var author4889 = "Nick Lowe", quotes4889 = ["I knew the bride when she used to rock and roll.","And so it goes and so it goes But where its goin no one knows."]

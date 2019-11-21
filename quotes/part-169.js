@@ -1,0 +1,1 @@
+var author169 = "Al Capone", quotes169 = ["Do I do business with Canadian racketeers? I dont even know what street Canada is on.","This is virgin territory out here for whorehouses.","You can get much farther with a kind word and a gun than you can with a kind word alone.","Ive been accused of every death except the casualty list of the World War."]

@@ -1,0 +1,1 @@
+var author1028 = "Cameron Duncan", quotes1028 = ["Freedom is taking so much for granted, when you dont appreciate the small things that you have.","When I die its not me that will be affected. Its the ones I leave behind."]

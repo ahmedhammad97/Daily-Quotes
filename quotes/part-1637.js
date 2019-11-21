@@ -1,0 +1,1 @@
+var author1637 = "Denise Richards", quotes1637 = ["Everyone says Im exploiting the kids, but they havent even seen one episode."]

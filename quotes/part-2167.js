@@ -1,0 +1,1 @@
+var author2167 = "Fannie Lou Hamer", quotes2167 = ["I am sick and tired of being sick and tired.","Its time for America to get right."]

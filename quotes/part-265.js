@@ -1,0 +1,1 @@
+var author265 = "Alexander Haig", quotes265 = ["Thats not a lie, its a terminological inexactitude."]

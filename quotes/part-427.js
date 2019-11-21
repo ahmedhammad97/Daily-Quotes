@@ -1,0 +1,1 @@
+var author427 = "Andy Murray", quotes427 = ["Ill be supporting anyone but England.","I can cry like Roger. Its just a shame I cant play like him.","Im getting closer...","I dont play in any tournaments to come second best."]

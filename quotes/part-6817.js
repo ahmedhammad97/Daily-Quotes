@@ -1,0 +1,1 @@
+var author6817 = "Umberto Eco", quotes6817 = ["The language of Europe is translation.","I dont miss my youth. Im glad I had one, but I wouldnt like to start over.","We live for books.","The hand of God creates; it does not conceal."]

@@ -1,0 +1,1 @@
+var author3619 = "John Mortimer", quotes3619 = ["If you cant sleep with your own wife wearing a false beard, what can you do?"]

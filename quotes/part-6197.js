@@ -1,0 +1,1 @@
+var author6197 = "Sons of the Desert", quotes6197 = ["Well, heres another nice mess youve gotten me into!"]

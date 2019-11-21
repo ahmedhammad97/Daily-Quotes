@@ -1,0 +1,1 @@
+var author5715 = "Robert Blair", quotes5715 = ["The common damnd shun their society."]

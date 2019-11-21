@@ -1,0 +1,1 @@
+var author72 = "Abraham Verghese", quotes72 = ["A rich mans faults are covered with money, but a surgeons faults are covered with earth.","The world turns on our every action, and our every omission, whether we know it or not."]

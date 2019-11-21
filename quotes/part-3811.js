@@ -1,0 +1,1 @@
+var author3811 = "Julie Andrews", quotes3811 = ["Hopefully, I brought people a certain joy. That will be a wonderful legacy.","Can I give them what they think theyre going to get from me? Thats always the big question.","Does Mary Poppins have an orgasm? Does she go to the bathroom? I assure you, she does."]

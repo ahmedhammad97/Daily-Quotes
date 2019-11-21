@@ -1,0 +1,1 @@
+var author3585 = "John Kerry", quotes3585 = ["Im John Kerry and Im reporting for duty.","Its the wrong war in the wrong place at the wrong time.","KERRY: I have had conversations with leaders."]

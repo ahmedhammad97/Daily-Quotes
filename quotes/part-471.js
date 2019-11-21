@@ -1,0 +1,1 @@
+var author471 = "Anne Rice", quotes471 = ["Doesnt matter now, devils who paint angels."]

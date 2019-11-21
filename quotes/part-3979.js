@@ -1,0 +1,1 @@
+var author3979 = "LL Cool J", quotes3979 = ["Dont call it a comeback Ive been here for years."]

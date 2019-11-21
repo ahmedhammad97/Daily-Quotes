@@ -1,0 +1,1 @@
+var author2018 = "Enrico Fermi", quotes2018 = ["Where are they?","I cannot think of a single one, not even intelligence.","I hope it wont take long.","If I could remember the names of all these particles, Id be a botanist."]

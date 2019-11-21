@@ -1,0 +1,1 @@
+var author4471 = "Masturbation", quotes4471 = ["Dont knock masturbation, its sex with someone I love.","If God had intended us not to masturbate, he wouldve made our arms shorter.","Masturbation is the thinking mans television.","Self improvement is masturbation.","I didnt get to masturbate this morning, and Ive been dying to, so Ive gotta go.","I have touched filth."]

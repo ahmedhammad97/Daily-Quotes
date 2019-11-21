@@ -1,0 +1,1 @@
+var author6020 = "Scott McNealy", quotes6020 = ["You have zero privacy anyway. Get over it.","What we offer is good enough. Its like my haircut: It aint pretty, but its good enough.","In a world without fences, who needs Gates?"]

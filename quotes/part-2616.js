@@ -1,0 +1,1 @@
+var author2616 = "Gotthold Ephraim Lessing", quotes2616 = ["The worst of superstitions is to think Ones own most bearable.","Trust no friend without faults, and love a maiden, but no angel."]

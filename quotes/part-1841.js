@@ -1,0 +1,1 @@
+var author1841 = "Edgar Rice Burroughs", quotes1841 = ["DO NOT HARM THE THINGS WHICH ARE TARZANS. TARZAN WATCHES. TARZAN OF THE APES.","Fingerprints prove you Greystoke. Congratulations. DArnot."]

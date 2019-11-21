@@ -1,0 +1,1 @@
+var author1693 = "Disaster", quotes1693 = ["Theres no disaster that cant become a blessing, and no blessing that cant become a disaster.","Disaster is a natural part of my evolution,” Tyler whispered, toward tragedy and dissolution.”","Dread of disaster makes everybody act in the very way that increases the disaster."]

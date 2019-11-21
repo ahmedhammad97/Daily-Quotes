@@ -1,0 +1,1 @@
+var author457 = "Anna Nicole Smith", quotes457 = ["I didnt get to masturbate this morning, and Ive been dying to, so Ive gotta go.","Marrying into money was not a good thing for me. ","I want to be the new Marilyn Monroe and find my own Clark Gable."]

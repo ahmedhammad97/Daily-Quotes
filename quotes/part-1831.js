@@ -1,0 +1,1 @@
+var author1831 = "Ed Harcourt", quotes1831 = ["Whos to say that every performer should be a good actor? Why cant you just be yourself?"]

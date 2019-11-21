@@ -1,0 +1,1 @@
+var author4288 = "Maine", quotes4288 = ["As Maine goes, so goes the nation.","You cant get there from here.","I felt like Id been misplaced in the cosmos and I belonged in Maine."]

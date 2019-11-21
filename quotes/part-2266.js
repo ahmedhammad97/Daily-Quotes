@@ -1,0 +1,1 @@
+var author2266 = "Francis Beaumont", quotes2266 = ["Shes private to herself and best of knowledgeWhom shell make so happy as to sigh for."]

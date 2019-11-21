@@ -1,0 +1,1 @@
+var author4726 = "Morris Udall", quotes4726 = ["Everything has been said but not everyone has said it.","Lets turn inflation over to the post office. Thatll slow it down.","The voters have spoken — the bastards."]

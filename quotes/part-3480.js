@@ -1,0 +1,1 @@
+var author3480 = "John Bartholomew Gough", quotes3480 = ["Intemperance weaves the winding-sheet of souls.","If the Bible is Gods word, and we believe it, let us handle it with reverence.","A mans enemies have no power to harm him, if he is true to himself and loyal to God."]

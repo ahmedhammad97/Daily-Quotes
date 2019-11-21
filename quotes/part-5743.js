@@ -1,0 +1,1 @@
+var author5743 = "Robert Heller", quotes5743 = ["Never ignore a gut feeling, but never believe thats enough.","Never ignore a gut feeling: but never believe that its enough on its own","Effective management always means asking the right question.","Letting I dare not wait upon I would is a mugs game, and those who play it usually get mugged."]

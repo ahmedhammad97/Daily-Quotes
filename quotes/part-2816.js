@@ -1,0 +1,1 @@
+var author2816 = "Henri Levaufre", quotes2816 = ["Its not easy to talk reasonably with a potentially insane enemy.","Dont worry about me. I am normal. I have somehow improved with the years."]

@@ -1,0 +1,1 @@
+var author5310 = "Physiognomy", quotes5310 = ["All mens faces are true, whatsomeer their hands are.","Theres no artTo find the minds construction in the face.","I knowe wele by thy fisnamy, thy kynd it were to stele."]

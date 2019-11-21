@@ -1,0 +1,1 @@
+var author5411 = "Primal therapy", quotes5411 = ["Psychiatrist Dr Anthony Clare, Lets Talk About Me (1981), (BBC. :","1998 Insane Therapy sociologist Marybeth F. Ayella"]

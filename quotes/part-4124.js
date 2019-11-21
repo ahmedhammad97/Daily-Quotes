@@ -1,0 +1,1 @@
+var author4124 = "Lillian Gish", quotes4124 = ["If youre caught acting, nobody believes you.","Im so glad I didnt ruin a mans life by marrying him.","Thalberg wanted commercial hits. I wanted art. "]

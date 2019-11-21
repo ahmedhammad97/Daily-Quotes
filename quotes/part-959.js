@@ -1,0 +1,1 @@
+var author959 = "Britney Spears", quotes959 = ["Theres always a way.&nbsp; Where theres a will there is a way.&nbsp; You have to believe."]

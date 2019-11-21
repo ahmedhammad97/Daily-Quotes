@@ -1,0 +1,1 @@
+var author6426 = "Tamsin Greig", quotes6426 = ["On my mothers side Im Polish-Jewish, and on my fathers side Im Scottish puffin.","It suddenly hit me one day: after were married Ill be called Mrs T Leaf!","In as much as any invisible, unbelievable, unknowable fictional character is, yes."]

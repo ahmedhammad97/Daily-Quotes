@@ -1,0 +1,1 @@
+var author6296 = "Steven Moffat", quotes6296 = ["Im not a psychopath, Anderson, Im a high-functioning sociopath. Do your research.","Do you know how you make someone into a Dalek? Subtract Love, add Anger."]

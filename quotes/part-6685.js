@@ -1,0 +1,1 @@
+var author6685 = "Thurgood Marshall", quotes6685 = ["[T]heres no difference between a white snake and a black snake. Theyll both bite."]

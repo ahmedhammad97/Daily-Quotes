@@ -1,0 +1,1 @@
+var author4134 = "Linguistics", quotes4134 = ["Its as if were higher apes who had a language faculty inserted."]

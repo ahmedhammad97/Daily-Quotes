@@ -1,0 +1,1 @@
+var author5818 = "Roger McGough", quotes5818 = ["Theres the moon trying to look romanticArent we all?","Wasnt a bad party reallyExcept for the people","When you are posthumous it is cold and darkand that is why patriots are a bit nuts in the head"]

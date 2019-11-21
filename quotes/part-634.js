@@ -1,0 +1,1 @@
+var author634 = "Ashraf Pahlavi", quotes634 = ["I dont need to pray. I have God in myself."]
