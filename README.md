@@ -16,7 +16,7 @@ This saves a lot of time since we only load a tiny file (usually less than **1 K
 
 The down side to this is that git faces a hard time dealing with all of these files, I assume a continuous deployment for such a project won't be a piece of cake.
 
-Here it is check it out! [https://ahmedhammad.me/daily-quote](https://ahmedhammad.me/daily-quote)
+Here it is check it out! [https://ahmedhammad97.com/daily-quote](https://ahmedhammad97.com/daily-quote)
 
 ![Screenshot1](https://github.com/ahmedhammad97/Daily-Quotes/blob/master/screenshots/sc1.PNG)
 ![Screenshot2](https://github.com/ahmedhammad97/Daily-Quotes/blob/master/screenshots/sc2.PNG)
